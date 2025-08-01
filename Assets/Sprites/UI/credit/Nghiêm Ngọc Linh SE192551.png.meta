@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 10062c328d2a67a42bc8fa8d6192c97f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4410814505025561278
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_0"
+  - first:
+      213: -2824844619163607006
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_1"
+  - first:
+      213: 7719186783829848838
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_2"
+  - first:
+      213: -5465889126949625191
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_3"
+  - first:
+      213: -8522722233370167564
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_4"
+  - first:
+      213: -5219350196992917832
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_5"
+  - first:
+      213: 5804775166090630490
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_6"
+  - first:
+      213: -908063621129993267
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_7"
+  - first:
+      213: -8606530847360995991
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_8"
+  - first:
+      213: 8548377625852823619
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_9"
+  - first:
+      213: 4134052364867207580
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_10"
+  - first:
+      213: -1243386254977414756
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_11"
+  - first:
+      213: -8740538273727970666
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_12"
+  - first:
+      213: -1942238888728089063
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_13"
+  - first:
+      213: 5471060478206677460
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_14"
+  - first:
+      213: 8174678445257258113
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_15"
+  - first:
+      213: 8114923939789486682
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_16"
+  - first:
+      213: -9200812098877027140
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_17"
+  - first:
+      213: -6665544947213591891
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_18"
+  - first:
+      213: 8479312957597444144
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_19"
+  - first:
+      213: -3864137097569968210
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_20"
+  - first:
+      213: 5386540585663212375
+    second: "Nghi\xEAm Ng\u1ECDc Linh SE192551_21"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_0"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d9fc1c393a9c2c0800000000000000
+      internalID: -4410814505025561278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_1"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220641919c22cc8d0800000000000000
+      internalID: -2824844619163607006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_2"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603711d5b7f002b60800000000000000
+      internalID: 7719186783829848838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_3"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9926f7e6cc24524b0800000000000000
+      internalID: -5465889126949625191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_4"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6b5a8b84539b980800000000000000
+      internalID: -8522722233370167564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_5"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be3fdd26a42197b0800000000000000
+      internalID: -5219350196992917832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5557df2244be8050800000000000000
+      internalID: 5804775166090630490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_7"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3871d92f8e563f0800000000000000
+      internalID: -908063621129993267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_8"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2b9e2bc57f8880800000000000000
+      internalID: -8606530847360995991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_9"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348cad2d820f1a670800000000000000
+      internalID: 8548377625852823619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_10"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9106c209ba1f5930800000000000000
+      internalID: 4134052364867207580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_11"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c771f9ca9ebee0800000000000000
+      internalID: -1243386254977414756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_12"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6920db8dfbe53b680800000000000000
+      internalID: -8740538273727970666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_13"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ea9686508cb05e0800000000000000
+      internalID: -1942238888728089063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_14"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1103c948c1deb40800000000000000
+      internalID: 5471060478206677460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_15"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f9921cba427170800000000000000
+      internalID: 8174678445257258113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_16"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a377a14500e9070800000000000000
+      internalID: 8114923939789486682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_17"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc8151e426205080800000000000000
+      internalID: -9200812098877027140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_18"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa1fe2af2a3f73a0800000000000000
+      internalID: -6665544947213591891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_19"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03866f8a5329ca570800000000000000
+      internalID: 8479312957597444144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_20"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafdee768c3df5ac0800000000000000
+      internalID: -3864137097569968210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nghi\xEAm Ng\u1ECDc Linh SE192551_21"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b2ea0af16d0ca40800000000000000
+      internalID: 5386540585663212375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_0": -4410814505025561278
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_1": -2824844619163607006
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_10": 4134052364867207580
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_11": -1243386254977414756
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_12": -8740538273727970666
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_13": -1942238888728089063
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_14": 5471060478206677460
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_15": 8174678445257258113
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_16": 8114923939789486682
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_17": -9200812098877027140
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_18": -6665544947213591891
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_19": 8479312957597444144
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_2": 7719186783829848838
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_20": -3864137097569968210
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_21": 5386540585663212375
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_3": -5465889126949625191
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_4": -8522722233370167564
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_5": -5219350196992917832
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_6": 5804775166090630490
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_7": -908063621129993267
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_8": -8606530847360995991
+      "Nghi\xEAm Ng\u1ECDc Linh SE192551_9": 8548377625852823619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

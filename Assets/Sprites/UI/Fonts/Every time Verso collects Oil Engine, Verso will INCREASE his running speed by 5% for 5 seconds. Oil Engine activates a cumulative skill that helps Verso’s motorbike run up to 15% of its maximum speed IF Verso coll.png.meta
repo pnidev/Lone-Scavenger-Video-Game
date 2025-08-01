@@ -1,0 +1,3357 @@
+fileFormatVersion: 2
+guid: 56635ea689643384f9887728ea7a045e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7572109602910822875
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_0"
+  - first:
+      213: -2463649824235477828
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_1"
+  - first:
+      213: 8234802263413657163
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_2"
+  - first:
+      213: -3781556785264045741
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_3"
+  - first:
+      213: 3699887136970572756
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_4"
+  - first:
+      213: -1793828970944290407
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_5"
+  - first:
+      213: 3880696917777720996
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_6"
+  - first:
+      213: -5807858643433130376
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_7"
+  - first:
+      213: -2654751472011234025
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_8"
+  - first:
+      213: -2525874747041829021
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_9"
+  - first:
+      213: -4451353263651994867
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_10"
+  - first:
+      213: 8969301869740754010
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_11"
+  - first:
+      213: 4276800025352645026
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_12"
+  - first:
+      213: 2817648949330360185
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_13"
+  - first:
+      213: 8327345316404118124
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_14"
+  - first:
+      213: 3874678066953854704
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_15"
+  - first:
+      213: -4449494770081606893
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_16"
+  - first:
+      213: 6167344135033421512
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_17"
+  - first:
+      213: -4219295656649131396
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_18"
+  - first:
+      213: 4121006662570943397
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_19"
+  - first:
+      213: 4376578675008758506
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_20"
+  - first:
+      213: 4093083161174375675
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_21"
+  - first:
+      213: -1476041410421646515
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_22"
+  - first:
+      213: -3107451525146380965
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_23"
+  - first:
+      213: 2059589455930868384
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_24"
+  - first:
+      213: -5558814321943588690
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_25"
+  - first:
+      213: 5395096822408914357
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_26"
+  - first:
+      213: -4779434774834555929
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_27"
+  - first:
+      213: -6906565460415305968
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_28"
+  - first:
+      213: -1246885720231592611
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_29"
+  - first:
+      213: -6224325933799879957
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_30"
+  - first:
+      213: 1219879625700925179
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_31"
+  - first:
+      213: 761215762809269746
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_32"
+  - first:
+      213: 5869883862155788612
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_33"
+  - first:
+      213: 1900150059302133457
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_34"
+  - first:
+      213: -4473639491873232102
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_35"
+  - first:
+      213: 6538975206857230372
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_36"
+  - first:
+      213: 8684289418583346533
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_37"
+  - first:
+      213: -9147257404377105947
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_38"
+  - first:
+      213: 9126132914171553120
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_39"
+  - first:
+      213: -5513313297753620192
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_40"
+  - first:
+      213: 7032490022406218666
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_41"
+  - first:
+      213: 6340061331044470845
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_42"
+  - first:
+      213: -4020379723021202028
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_43"
+  - first:
+      213: 1821484095456688496
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_44"
+  - first:
+      213: -1761155831099835696
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_45"
+  - first:
+      213: -5251483606785347207
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_46"
+  - first:
+      213: -8545327593533912831
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_47"
+  - first:
+      213: -5671379904188824457
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_48"
+  - first:
+      213: 9109885222623818703
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_49"
+  - first:
+      213: -2311416179228391596
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_50"
+  - first:
+      213: -1065616782787943988
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_51"
+  - first:
+      213: 7514013436195836384
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_52"
+  - first:
+      213: 5762206118218344016
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_53"
+  - first:
+      213: 5802635012816405811
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_54"
+  - first:
+      213: 8453025855599812092
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_55"
+  - first:
+      213: -3699801075401167621
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_56"
+  - first:
+      213: -6247490319582328479
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_57"
+  - first:
+      213: 2475739386669158534
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_58"
+  - first:
+      213: 4148454789659552069
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_59"
+  - first:
+      213: -4594467935680562198
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_60"
+  - first:
+      213: 654308737719621483
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_61"
+  - first:
+      213: -33518599024506192
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_62"
+  - first:
+      213: 5741640443269220391
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_63"
+  - first:
+      213: 6147520213450491198
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_64"
+  - first:
+      213: -63102684533760319
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_65"
+  - first:
+      213: 5493851913188397047
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_66"
+  - first:
+      213: 7529188018412527788
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_67"
+  - first:
+      213: 7857358275404354078
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_68"
+  - first:
+      213: -1518243181351574921
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_69"
+  - first:
+      213: 4843108223532638033
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_70"
+  - first:
+      213: 585739944133916906
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_71"
+  - first:
+      213: -4433264929221230192
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_72"
+  - first:
+      213: -663170980310312899
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_73"
+  - first:
+      213: -7434027546182266147
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_74"
+  - first:
+      213: 4263624814392136517
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_75"
+  - first:
+      213: -783430890691656265
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_76"
+  - first:
+      213: -323138422239158899
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_77"
+  - first:
+      213: 8733402111928782723
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_78"
+  - first:
+      213: -6860795326337258712
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_79"
+  - first:
+      213: 5373541536108981259
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_80"
+  - first:
+      213: -3236741327700428116
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_81"
+  - first:
+      213: 6965690403334367625
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_82"
+  - first:
+      213: 5165154123148824799
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_83"
+  - first:
+      213: 7717943254516947470
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_84"
+  - first:
+      213: -6658630295842188094
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_85"
+  - first:
+      213: 5185769019072765351
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_86"
+  - first:
+      213: -2793859693520131466
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_87"
+  - first:
+      213: 6811539816170755829
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_88"
+  - first:
+      213: 5630159190364791471
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_89"
+  - first:
+      213: 2578018653418600814
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_90"
+  - first:
+      213: -442716092921755130
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_91"
+  - first:
+      213: 8209814012300718710
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_92"
+  - first:
+      213: 5715506354399090425
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_93"
+  - first:
+      213: -6705060914167392296
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_94"
+  - first:
+      213: 5836225136120671460
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_95"
+  - first:
+      213: 2402305643144430518
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_96"
+  - first:
+      213: 3732565072561894299
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_97"
+  - first:
+      213: 6432035534067557887
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_98"
+  - first:
+      213: 7726446390384797954
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_99"
+  - first:
+      213: 8264134098334389411
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_100"
+  - first:
+      213: -849835204535188006
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_101"
+  - first:
+      213: -686638117055446927
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_102"
+  - first:
+      213: 2809868388304130343
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_103"
+  - first:
+      213: -4120866247807583096
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_104"
+  - first:
+      213: 5763496567913304838
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_105"
+  - first:
+      213: 6277840675367785973
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_106"
+  - first:
+      213: 486693774643296474
+    second: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+      speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+      Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_107"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e1d265f667ae690800000000000000
+      internalID: -7572109602910822875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_1"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4ad7fa98b5fcdd0800000000000000
+      internalID: -2463649824235477828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_2"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 74
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8a5a5705e74270800000000000000
+      internalID: 8234802263413657163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_3"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 71
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3515e5ca326358bc0800000000000000
+      internalID: -3781556785264045741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_4"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 74
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d30b2c8fb3a85330800000000000000
+      internalID: 3699887136970572756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_5"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991af071e0a0b17e0800000000000000
+      internalID: -1793828970944290407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_6"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 74
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6281139410bd530800000000000000
+      internalID: 3880696917777720996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_7"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 74
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8767c7cc557566fa0800000000000000
+      internalID: -5807858643433130376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_8"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 74
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71533d70a9d682bd0800000000000000
+      internalID: -2654751472011234025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_9"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 74
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f217bdc4a42fcd0800000000000000
+      internalID: -2525874747041829021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_10"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 74
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034f3e7acd9932c0800000000000000
+      internalID: -4451353263651994867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_11"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 74
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a540525778c597c70800000000000000
+      internalID: 8969301869740754010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_12"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a68ea6fe3a5b30800000000000000
+      internalID: 4276800025352645026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_13"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 72
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977b6967acc4a1720800000000000000
+      internalID: 2817648949330360185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_14"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62c742f17ca09370800000000000000
+      internalID: 8327345316404118124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_15"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 74
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe18c74c2f95c530800000000000000
+      internalID: 3874678066953854704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_16"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 74
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d35fb4183042c0800000000000000
+      internalID: -4449494770081606893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_17"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 74
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce714890dec69550800000000000000
+      internalID: 6167344135033421512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_18"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 74
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a741f74fc0275c0800000000000000
+      internalID: -4219295656649131396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_19"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 74
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32f8fb9b1c03930800000000000000
+      internalID: 4121006662570943397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_20"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 74
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26277ed1bbcbc30800000000000000
+      internalID: 4376578675008758506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_21"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc7ee1f27d8dc830800000000000000
+      internalID: 4093083161174375675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_22"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 74
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1d0a582c048be0800000000000000
+      internalID: -1476041410421646515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_23"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 74
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5577e64d4d10e4d0800000000000000
+      internalID: -3107451525146380965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_24"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 74
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a246efa2b1259c10800000000000000
+      internalID: 2059589455930868384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_25"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0d23873df1bd2b0800000000000000
+      internalID: -5558814321943588690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_26"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5a58cb9fb3fda40800000000000000
+      internalID: 5395096822408914357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_27"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e356d215690cadb0800000000000000
+      internalID: -4779434774834555929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_28"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a6f96e43f620a0800000000000000
+      internalID: -6906565460415305968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_29"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 56
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db6123b0c22bee0800000000000000
+      internalID: -1246885720231592611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_30"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea4b958a80ce99a0800000000000000
+      internalID: -6224325933799879957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_31"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 56
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfed3ae6e02ede010800000000000000
+      internalID: 1219879625700925179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_32"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 56
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdaca304b1609a00800000000000000
+      internalID: 761215762809269746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_33"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441089cc544067150800000000000000
+      internalID: 5869883862155788612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_34"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 56
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de14a85960be5a10800000000000000
+      internalID: 1900150059302133457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bacb1a5907ae1c0800000000000000
+      internalID: -4473639491873232102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_36"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428cfcf3e4b1fba50800000000000000
+      internalID: 6538975206857230372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_37"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0851073bc48870800000000000000
+      internalID: 8684289418583346533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_38"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 38
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e97a0fdad96e0180800000000000000
+      internalID: -9147257404377105947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_39"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 38
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065223a788986ae70800000000000000
+      internalID: 9126132914171553120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_40"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02145f734c6cc73b0800000000000000
+      internalID: -5513313297753620192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_41"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 38
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa360086a6c689160800000000000000
+      internalID: 7032490022406218666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_42"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 38
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d309813803c6cf750800000000000000
+      internalID: 6340061331044470845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_43"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d432b51fdb438c0800000000000000
+      internalID: -4020379723021202028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_44"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 38
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07938b95226374910800000000000000
+      internalID: 1821484095456688496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_45"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 38
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dabf254a1e1f87e0800000000000000
+      internalID: -1761155831099835696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_46"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 38
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971b5c1bb7bfe17b0800000000000000
+      internalID: -5251483606785347207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_47"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 38
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109411a24d5e86980800000000000000
+      internalID: -8545327593533912831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_48"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 38
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774498086063b41b0800000000000000
+      internalID: -5671379904188824457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_49"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 38
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3b21ff750dc6e70800000000000000
+      internalID: 9109885222623818703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_50"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 38
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457400d3b333cefd0800000000000000
+      internalID: -2311416179228391596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_51"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 35
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1ea339e2b2631f0800000000000000
+      internalID: -1065616782787943988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_52"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 38
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e117f5c863274860800000000000000
+      internalID: 7514013436195836384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_53"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 38
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056acfe5fe777ff40800000000000000
+      internalID: 5762206118218344016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_54"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 38
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3358a2cecc9178050800000000000000
+      internalID: 5802635012816405811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_55"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 38
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1838ca3e2f4570800000000000000
+      internalID: 8453025855599812092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_56"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 38
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcea19368aa7acc0800000000000000
+      internalID: -3699801075401167621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_57"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 38
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1698a9ba7a47c49a0800000000000000
+      internalID: -6247490319582328479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_58"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680dbdaead79b5220800000000000000
+      internalID: 2475739386669158534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_59"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ec68d6a5429930800000000000000
+      internalID: 4148454789659552069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_60"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb76d941cb2d30c0800000000000000
+      internalID: -4594467935680562198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_61"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 20
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67563d8452941900800000000000000
+      internalID: 654308737719621483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_62"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba86c3030be88ff0800000000000000
+      internalID: -33518599024506192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_63"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728041900976eaf40800000000000000
+      internalID: 5741640443269220391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_64"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35004c2011605550800000000000000
+      internalID: 6147520213450491198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_65"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceddf75170df1ff0800000000000000
+      internalID: -63102684533760319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_66"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 20
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffc13615351e3c40800000000000000
+      internalID: 5493851913188397047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_67"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca02b948c9c0d7860800000000000000
+      internalID: 7529188018412527788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_68"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 20
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12d37ea8b1fa0d60800000000000000
+      internalID: 7857358275404354078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_69"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 20
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77261ecdedd1eeae0800000000000000
+      internalID: -1518243181351574921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_70"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f9f68f44d263340800000000000000
+      internalID: 4843108223532638033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_71"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 17
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8fbd43067f02800800000000000000
+      internalID: 585739944133916906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_72"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091429a0901e972c0800000000000000
+      internalID: -4433264929221230192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_73"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 20
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38914dc181fbc6f0800000000000000
+      internalID: -663170980310312899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_74"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2565b755705d890800000000000000
+      internalID: -7434027546182266147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_75"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5435265dd207b2b30800000000000000
+      internalID: 4263624814392136517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_76"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 20
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5814671c1b025f0800000000000000
+      internalID: -783430890691656265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_77"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 20
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9729215bf38bf0800000000000000
+      internalID: -323138422239158899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_78"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 20
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f492203f6433970800000000000000
+      internalID: 8733402111928782723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_79"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 17
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82be101300f89c0a0800000000000000
+      internalID: -6860795326337258712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_80"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 20
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c259d8e87a29a40800000000000000
+      internalID: 5373541536108981259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_81"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 20
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf69459e8c413d0800000000000000
+      internalID: -3236741327700428116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_82"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989a71a148a1ba060800000000000000
+      internalID: 6965690403334367625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_83"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01e601f405ea740800000000000000
+      internalID: 5165154123148824799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_84"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ada12af74ab1b60800000000000000
+      internalID: 7717943254516947470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_85"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c41cad560bc793a0800000000000000
+      internalID: -6658630295842188094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_86"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adde0d827d87f740800000000000000
+      internalID: 5185769019072765351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_87"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a637749673a39d0800000000000000
+      internalID: -2793859693520131466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_88"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6994caf53778e50800000000000000
+      internalID: 6811539816170755829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_89"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2289a24f7522e40800000000000000
+      internalID: 5630159190364791471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_90"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b85d6e46f6c320800000000000000
+      internalID: 2578018653418600814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_91"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60acc012f082bd9f0800000000000000
+      internalID: -442716092921755130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_92"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6727533c85e1fe170800000000000000
+      internalID: 8209814012300718710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_93"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6127d4fbe815f40800000000000000
+      internalID: 5715506354399090425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_94"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d752bd9f96d2f2a0800000000000000
+      internalID: -6705060914167392296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_95"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecada3f6df6ef050800000000000000
+      internalID: 5836225136120671460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_96"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34a852144b65120800000000000000
+      internalID: 2402305643144430518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_97"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f413582cbcc330800000000000000
+      internalID: 3732565072561894299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_98"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff569c66d3e234950800000000000000
+      internalID: 6432035534067557887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_99"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092cfa3e0ad93b60800000000000000
+      internalID: 7726446390384797954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_100"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a41a6b5d2a10b270800000000000000
+      internalID: 8264134098334389411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_101"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad50f045267c434f0800000000000000
+      internalID: -849835204535188006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_102"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170caaf35429876f0800000000000000
+      internalID: -686638117055446927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_103"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721977e6968aef620800000000000000
+      internalID: 2809868388304130343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_104"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c388c1bfdbfc6c0800000000000000
+      internalID: -4120866247807583096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_105"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603d7aa979d0cff40800000000000000
+      internalID: 5763496567913304838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_106"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59bc335de5f1750800000000000000
+      internalID: 6277840675367785973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Every time Verso collects Oil Engine, Verso will INCREASE his running
+        speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps
+        Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_107"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f100d86511c600800000000000000
+      internalID: 486693774643296474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_0": -7572109602910822875
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_1": -2463649824235477828
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_10": -4451353263651994867
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_100": 8264134098334389411
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_101": -849835204535188006
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_102": -686638117055446927
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_103": 2809868388304130343
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_104": -4120866247807583096
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_105": 5763496567913304838
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_106": 6277840675367785973
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_107": 486693774643296474
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_11": 8969301869740754010
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_12": 4276800025352645026
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_13": 2817648949330360185
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_14": 8327345316404118124
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_15": 3874678066953854704
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_16": -4449494770081606893
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_17": 6167344135033421512
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_18": -4219295656649131396
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_19": 4121006662570943397
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_2": 8234802263413657163
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_20": 4376578675008758506
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_21": 4093083161174375675
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_22": -1476041410421646515
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_23": -3107451525146380965
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_24": 2059589455930868384
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_25": -5558814321943588690
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_26": 5395096822408914357
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_27": -4779434774834555929
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_28": -6906565460415305968
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_29": -1246885720231592611
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_3": -3781556785264045741
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_30": -6224325933799879957
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_31": 1219879625700925179
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_32": 761215762809269746
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_33": 5869883862155788612
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_34": 1900150059302133457
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_35": -4473639491873232102
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_36": 6538975206857230372
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_37": 8684289418583346533
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_38": -9147257404377105947
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_39": 9126132914171553120
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_4": 3699887136970572756
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_40": -5513313297753620192
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_41": 7032490022406218666
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_42": 6340061331044470845
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_43": -4020379723021202028
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_44": 1821484095456688496
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_45": -1761155831099835696
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_46": -5251483606785347207
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_47": -8545327593533912831
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_48": -5671379904188824457
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_49": 9109885222623818703
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_5": -1793828970944290407
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_50": -2311416179228391596
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_51": -1065616782787943988
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_52": 7514013436195836384
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_53": 5762206118218344016
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_54": 5802635012816405811
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_55": 8453025855599812092
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_56": -3699801075401167621
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_57": -6247490319582328479
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_58": 2475739386669158534
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_59": 4148454789659552069
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_6": 3880696917777720996
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_60": -4594467935680562198
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_61": 654308737719621483
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_62": -33518599024506192
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_63": 5741640443269220391
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_64": 6147520213450491198
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_65": -63102684533760319
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_66": 5493851913188397047
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_67": 7529188018412527788
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_68": 7857358275404354078
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_69": -1518243181351574921
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_7": -5807858643433130376
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_70": 4843108223532638033
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_71": 585739944133916906
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_72": -4433264929221230192
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_73": -663170980310312899
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_74": -7434027546182266147
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_75": 4263624814392136517
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_76": -783430890691656265
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_77": -323138422239158899
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_78": 8733402111928782723
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_79": -6860795326337258712
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_8": -2654751472011234025
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_80": 5373541536108981259
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_81": -3236741327700428116
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_82": 6965690403334367625
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_83": 5165154123148824799
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_84": 7717943254516947470
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_85": -6658630295842188094
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_86": 5185769019072765351
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_87": -2793859693520131466
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_88": 6811539816170755829
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_89": 5630159190364791471
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_9": -2525874747041829021
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_90": 2578018653418600814
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_91": -442716092921755130
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_92": 8209814012300718710
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_93": 5715506354399090425
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_94": -6705060914167392296
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_95": 5836225136120671460
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_96": 2402305643144430518
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_97": 3732565072561894299
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_98": 6432035534067557887
+      "Every time Verso collects Oil Engine, Verso will INCREASE his running speed by 5% for 5 seconds. Oil Engine activates a cumulative skill that helps Verso\u2019s motorbike run up to 15% of its maximum speed IF Verso coll_99": 7726446390384797954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

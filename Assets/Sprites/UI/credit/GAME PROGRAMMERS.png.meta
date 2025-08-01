@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: d5f8231dfdf9e8342982abce868a6b49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9089076201513603974
+    second: GAME PROGRAMMERS_0
+  - first:
+      213: 3460556050350080200
+    second: GAME PROGRAMMERS_1
+  - first:
+      213: -6567427391325365733
+    second: GAME PROGRAMMERS_2
+  - first:
+      213: -3283357609777381287
+    second: GAME PROGRAMMERS_3
+  - first:
+      213: 7972640081595093838
+    second: GAME PROGRAMMERS_4
+  - first:
+      213: -4259920698635560360
+    second: GAME PROGRAMMERS_5
+  - first:
+      213: -6846395796113690541
+    second: GAME PROGRAMMERS_6
+  - first:
+      213: -1004950584636780935
+    second: GAME PROGRAMMERS_7
+  - first:
+      213: -7001617221439407015
+    second: GAME PROGRAMMERS_8
+  - first:
+      213: 3103880599632064692
+    second: GAME PROGRAMMERS_9
+  - first:
+      213: 6372257214282472839
+    second: GAME PROGRAMMERS_10
+  - first:
+      213: 6912019874567274565
+    second: GAME PROGRAMMERS_11
+  - first:
+      213: 2071416389978942666
+    second: GAME PROGRAMMERS_12
+  - first:
+      213: 2380170101012949480
+    second: GAME PROGRAMMERS_13
+  - first:
+      213: -6735625842686050791
+    second: GAME PROGRAMMERS_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2358c95d1dd180800000000000000
+      internalID: -9089076201513603974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0027a946d560030800000000000000
+      internalID: 3460556050350080200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a91e3559fcbd4a0800000000000000
+      internalID: -6567427391325365733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950c4ae56ab2f62d0800000000000000
+      internalID: -3283357609777381287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e435481d9e184ae60800000000000000
+      internalID: 7972640081595093838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5e72d1b8b1e4c0800000000000000
+      internalID: -4259920698635560360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507ae41c47bcf0a0800000000000000
+      internalID: -6846395796113690541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e47e984c2bd02f0800000000000000
+      internalID: -1004950584636780935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb8d6bb3245de90800000000000000
+      internalID: -7001617221439407015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0bb46d5f2331b20800000000000000
+      internalID: 3103880599632064692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d1ababc2ece6850800000000000000
+      internalID: 6372257214282472839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c508547d6cef50800000000000000
+      internalID: 6912019874567274565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acced9a5b362fbc10800000000000000
+      internalID: 2071416389978942666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9e1ef9810180120800000000000000
+      internalID: 2380170101012949480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME PROGRAMMERS_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eb1c2abff3682a0800000000000000
+      internalID: -6735625842686050791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GAME PROGRAMMERS_0: -9089076201513603974
+      GAME PROGRAMMERS_1: 3460556050350080200
+      GAME PROGRAMMERS_10: 6372257214282472839
+      GAME PROGRAMMERS_11: 6912019874567274565
+      GAME PROGRAMMERS_12: 2071416389978942666
+      GAME PROGRAMMERS_13: 2380170101012949480
+      GAME PROGRAMMERS_14: -6735625842686050791
+      GAME PROGRAMMERS_2: -6567427391325365733
+      GAME PROGRAMMERS_3: -3283357609777381287
+      GAME PROGRAMMERS_4: 7972640081595093838
+      GAME PROGRAMMERS_5: -4259920698635560360
+      GAME PROGRAMMERS_6: -6846395796113690541
+      GAME PROGRAMMERS_7: -1004950584636780935
+      GAME PROGRAMMERS_8: -7001617221439407015
+      GAME PROGRAMMERS_9: 3103880599632064692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

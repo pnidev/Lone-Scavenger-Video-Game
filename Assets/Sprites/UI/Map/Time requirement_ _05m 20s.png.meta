@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9fb6f60cdbc91a14da8521b8fc576b05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1193425400806818670
+    second: Time requirement_ _05m 20s_0
+  - first:
+      213: -6658558338139238438
+    second: Time requirement_ _05m 20s_1
+  - first:
+      213: 3098818610024613636
+    second: Time requirement_ _05m 20s_2
+  - first:
+      213: -38750347922537788
+    second: Time requirement_ _05m 20s_3
+  - first:
+      213: 8982989572948903576
+    second: Time requirement_ _05m 20s_4
+  - first:
+      213: 3709478832315020030
+    second: Time requirement_ _05m 20s_5
+  - first:
+      213: -4532876527253565510
+    second: Time requirement_ _05m 20s_6
+  - first:
+      213: 477888111917853145
+    second: Time requirement_ _05m 20s_7
+  - first:
+      213: 7885643323682179271
+    second: Time requirement_ _05m 20s_8
+  - first:
+      213: 6214826120403566875
+    second: Time requirement_ _05m 20s_9
+  - first:
+      213: 6117503556070428082
+    second: Time requirement_ _05m 20s_10
+  - first:
+      213: 547363206338450288
+    second: Time requirement_ _05m 20s_11
+  - first:
+      213: 4245798616780838471
+    second: Time requirement_ _05m 20s_12
+  - first:
+      213: 4609286339164876745
+    second: Time requirement_ _05m 20s_13
+  - first:
+      213: 2625343907612721892
+    second: Time requirement_ _05m 20s_14
+  - first:
+      213: 2921659184493149279
+    second: Time requirement_ _05m 20s_15
+  - first:
+      213: 6225852519154602556
+    second: Time requirement_ _05m 20s_16
+  - first:
+      213: 2439357304529715422
+    second: Time requirement_ _05m 20s_17
+  - first:
+      213: -5017820459792978264
+    second: Time requirement_ _05m 20s_18
+  - first:
+      213: -8828255336190670272
+    second: Time requirement_ _05m 20s_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c4093416ef8010800000000000000
+      internalID: 1193425400806818670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfcef2587c0893a0800000000000000
+      internalID: -6658558338139238438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40703e98b17310b20800000000000000
+      internalID: 3098818610024613636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2872d83c4567ff0800000000000000
+      internalID: -38750347922537788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89648a43c6df9ac70800000000000000
+      internalID: 8982989572948903576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2b7f52857ba7330800000000000000
+      internalID: 3709478832315020030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf485e80dcf711c0800000000000000
+      internalID: -4532876527253565510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9ee31b4bcc1a600800000000000000
+      internalID: 477888111917853145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c18da2de6f6d60800000000000000
+      internalID: 7885643323682179271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11497fcd6f7f3650800000000000000
+      internalID: 6214826120403566875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd44c3821db5e450800000000000000
+      internalID: 6117503556070428082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0731ce4afef989700800000000000000
+      internalID: 547363206338450288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7461115c85b1cea30800000000000000
+      internalID: 4245798616780838471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfabf1218977ff30800000000000000
+      internalID: 4609286339164876745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20e72df581f6420800000000000000
+      internalID: 2625343907612721892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cb8767c81db8820800000000000000
+      internalID: 2921659184493149279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c325e2451eba66650800000000000000
+      internalID: 6225852519154602556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed08fb05b865ad120800000000000000
+      internalID: 2439357304529715422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 4
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae2a5b90ee1d5ab0800000000000000
+      internalID: -5017820459792978264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time requirement_ _05m 20s_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a88ebbb8cbb7580800000000000000
+      internalID: -8828255336190670272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Time requirement_ _05m 20s_0: 1193425400806818670
+      Time requirement_ _05m 20s_1: -6658558338139238438
+      Time requirement_ _05m 20s_10: 6117503556070428082
+      Time requirement_ _05m 20s_11: 547363206338450288
+      Time requirement_ _05m 20s_12: 4245798616780838471
+      Time requirement_ _05m 20s_13: 4609286339164876745
+      Time requirement_ _05m 20s_14: 2625343907612721892
+      Time requirement_ _05m 20s_15: 2921659184493149279
+      Time requirement_ _05m 20s_16: 6225852519154602556
+      Time requirement_ _05m 20s_17: 2439357304529715422
+      Time requirement_ _05m 20s_18: -5017820459792978264
+      Time requirement_ _05m 20s_19: -8828255336190670272
+      Time requirement_ _05m 20s_2: 3098818610024613636
+      Time requirement_ _05m 20s_3: -38750347922537788
+      Time requirement_ _05m 20s_4: 8982989572948903576
+      Time requirement_ _05m 20s_5: 3709478832315020030
+      Time requirement_ _05m 20s_6: -4532876527253565510
+      Time requirement_ _05m 20s_7: 477888111917853145
+      Time requirement_ _05m 20s_8: 7885643323682179271
+      Time requirement_ _05m 20s_9: 6214826120403566875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3297 @@
+fileFormatVersion: 2
+guid: 64657a0efa4506347bd56d6f7cfab379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4300011444864588039
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_0
+  - first:
+      213: 69047782875387998
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_1
+  - first:
+      213: -4723614438119418236
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_2
+  - first:
+      213: -4532397943154370646
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_3
+  - first:
+      213: 2532573351688916859
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_4
+  - first:
+      213: 1561397530422219510
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_5
+  - first:
+      213: -6264225246554968391
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_6
+  - first:
+      213: -6317016919438594318
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_7
+  - first:
+      213: -3480282558677820062
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_8
+  - first:
+      213: 6044580174920843669
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_9
+  - first:
+      213: -1555083724690080951
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_10
+  - first:
+      213: -1304351413520078774
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_11
+  - first:
+      213: 3234491113450894593
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_12
+  - first:
+      213: 6256140701699115317
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_13
+  - first:
+      213: -8071195904357191278
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_14
+  - first:
+      213: 645022428865318317
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_15
+  - first:
+      213: 6728645054350647059
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_16
+  - first:
+      213: -2821308389198320246
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_17
+  - first:
+      213: -3492813301822922528
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_18
+  - first:
+      213: -1099587019217102732
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_19
+  - first:
+      213: 4058654934545304478
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_20
+  - first:
+      213: -1181221052165715107
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_21
+  - first:
+      213: -7793905388051842817
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_22
+  - first:
+      213: -5709469127601993200
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_23
+  - first:
+      213: -67192171083243775
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_24
+  - first:
+      213: -3237172878746423756
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_25
+  - first:
+      213: 5119748340553368875
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_26
+  - first:
+      213: 7430294056206747731
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_27
+  - first:
+      213: -2457507713469367809
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_28
+  - first:
+      213: 6398269860134558226
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_29
+  - first:
+      213: 3997456448178483093
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_30
+  - first:
+      213: -5494022154983080550
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_31
+  - first:
+      213: -5403036224554793764
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_32
+  - first:
+      213: 7056716370004413157
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_33
+  - first:
+      213: -8947320548500812265
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_34
+  - first:
+      213: 3444707013542333613
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_35
+  - first:
+      213: -865579362376203324
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_36
+  - first:
+      213: -3453257174096915386
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_37
+  - first:
+      213: -3992437387953517895
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_38
+  - first:
+      213: -1950861737278534713
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_39
+  - first:
+      213: 758113157337162812
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_40
+  - first:
+      213: -1701607932898716776
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_41
+  - first:
+      213: -8260596156957002822
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_42
+  - first:
+      213: -2217208829668833720
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_43
+  - first:
+      213: -3134315489875238952
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_44
+  - first:
+      213: -4959653022858968019
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_45
+  - first:
+      213: -2675879096780887507
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_46
+  - first:
+      213: -5331358677681740967
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_47
+  - first:
+      213: -4771216645113366839
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_48
+  - first:
+      213: 2392972943252186654
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_49
+  - first:
+      213: 5676787334600010610
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_50
+  - first:
+      213: -2412698687494698454
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_51
+  - first:
+      213: -3494871991944413668
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_52
+  - first:
+      213: 6007651898673618768
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_53
+  - first:
+      213: 9055057675086521596
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_54
+  - first:
+      213: -716859011298250388
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_55
+  - first:
+      213: 7489131058148058597
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_56
+  - first:
+      213: -5834325507547091812
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_57
+  - first:
+      213: 2579947136979208950
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_58
+  - first:
+      213: -2675591693200155832
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_59
+  - first:
+      213: -8245267814342689919
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_60
+  - first:
+      213: 2157417678453394309
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_61
+  - first:
+      213: -729910013989112811
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_62
+  - first:
+      213: 8957491333964421667
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_63
+  - first:
+      213: 4853053932883375181
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_64
+  - first:
+      213: -8588735053799954547
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_65
+  - first:
+      213: 2953644073381499596
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_66
+  - first:
+      213: -797394463493668635
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_67
+  - first:
+      213: -2933327458175884660
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_68
+  - first:
+      213: -2125891225176967518
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_69
+  - first:
+      213: -5517670201907944768
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_70
+  - first:
+      213: -8640692918104571548
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_71
+  - first:
+      213: -4839258801715253480
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_72
+  - first:
+      213: 8674289037601848231
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_73
+  - first:
+      213: 1877528848424927352
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_74
+  - first:
+      213: 343787145490421966
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_75
+  - first:
+      213: 6730381267175336014
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_76
+  - first:
+      213: 1919562707999191219
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_77
+  - first:
+      213: 2579662169085940562
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_78
+  - first:
+      213: -145137482159766492
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_79
+  - first:
+      213: 7967303147452981269
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_80
+  - first:
+      213: 7708841732632045102
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_81
+  - first:
+      213: -4346167703704366574
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_82
+  - first:
+      213: -3024459654526932932
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_83
+  - first:
+      213: 6509755395210933604
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_84
+  - first:
+      213: 3208272442962815099
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_85
+  - first:
+      213: -6034978399422730669
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_86
+  - first:
+      213: 8306923351934989007
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_87
+  - first:
+      213: -6233770402940599185
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_88
+  - first:
+      213: -589816408883713860
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_89
+  - first:
+      213: -2558382086766977100
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_90
+  - first:
+      213: 5719101668633466188
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_91
+  - first:
+      213: -1398888777665660132
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_92
+  - first:
+      213: 2147907916211852653
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_93
+  - first:
+      213: -5304128511249240358
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_94
+  - first:
+      213: -3172470434453899655
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_95
+  - first:
+      213: -3533024517254647876
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_96
+  - first:
+      213: 6308257892725712979
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_97
+  - first:
+      213: -3976160703107696856
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_98
+  - first:
+      213: 7001513554062673795
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_99
+  - first:
+      213: 8515991473206563240
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_100
+  - first:
+      213: -3521013348032124547
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_101
+  - first:
+      213: 6849492270183953323
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_102
+  - first:
+      213: 6901355175063446929
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_103
+  - first:
+      213: -5401243039713034952
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_104
+  - first:
+      213: -5778100047954108346
+    second: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+      block (equivalent to 5 points), it will be the material to increase the level
+      index. When Verso earns 6 energy blocks, the level bar will incr_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709944d60a5bcab30800000000000000
+      internalID: 4300011444864588039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 78
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d0dab79e45f000800000000000000
+      internalID: 69047782875387998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 78
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4865cfff1b9527eb0800000000000000
+      internalID: -4723614438119418236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa792999510b911c0800000000000000
+      internalID: -4532397943154370646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc9039b02852320800000000000000
+      internalID: 2532573351688916859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 78
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f21df108c23ba510800000000000000
+      internalID: 1561397530422219510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 75
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beae0ad3500119a0800000000000000
+      internalID: -6264225246554968391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 78
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feeabca4927558a0800000000000000
+      internalID: -6317016919438594318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d5504c37d83bfc0800000000000000
+      internalID: -3480282558677820062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591868eb4a9a2e350800000000000000
+      internalID: 6044580174920843669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 78
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b3bd1779b3b6ae0800000000000000
+      internalID: -1555083724690080951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 78
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486bd6dc4306ede0800000000000000
+      internalID: -1304351413520078774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 78
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f566d78833ec20800000000000000
+      internalID: 3234491113450894593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 78
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53983ad52d642d650800000000000000
+      internalID: 6256140701699115317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 78
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b338861a5dff80800000000000000
+      internalID: -8071195904357191278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 78
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad4da84b7493f800800000000000000
+      internalID: 645022428865318317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 78
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f524ce603f06d50800000000000000
+      internalID: 6728645054350647059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 78
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d210cc7f2b8d8d0800000000000000
+      internalID: -2821308389198320246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 78
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0e516cec8078fc0800000000000000
+      internalID: -3492813301822922528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 78
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4781fef8e6b7db0f0800000000000000
+      internalID: -1099587019217102732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 78
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8577c82d335830800000000000000
+      internalID: 4058654934545304478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 75
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b037026b57b9fe0800000000000000
+      internalID: -1181221052165715107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 78
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ba2ce75c76d390800000000000000
+      internalID: -7793905388051842817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 78
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a49391414e3c0b0800000000000000
+      internalID: -5709469127601993200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 78
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f55ee8319411ff0800000000000000
+      internalID: -67192171083243775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 78
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6ac50b604313d0800000000000000
+      internalID: -3237172878746423756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 78
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25441a7dfffc0740800000000000000
+      internalID: 5119748340553368875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35846e4a315bd1760800000000000000
+      internalID: 7430294056206747731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff930e941cd25edd0800000000000000
+      internalID: -2457507713469367809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a986ec9883bc850800000000000000
+      internalID: 6398269860134558226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe5cec571d97730800000000000000
+      internalID: 3997456448178483093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 56
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d7b1865ff41c3b0800000000000000
+      internalID: -5494022154983080550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd408d62e2f8405b0800000000000000
+      internalID: -5403036224554793764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea0cc2862e7ee160800000000000000
+      internalID: 7056716370004413157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e4e07bd5bb4d380800000000000000
+      internalID: -8947320548500812265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daccc7927ce0ecf20800000000000000
+      internalID: 3444707013542333613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 56
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c348ace728dcf3f0800000000000000
+      internalID: -865579362376203324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64452e375e09310d0800000000000000
+      internalID: -3453257174096915386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baca0739530898c0800000000000000
+      internalID: -3992437387953517895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb8c9706952de4e0800000000000000
+      internalID: -1950861737278534713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a1a266eb558a00800000000000000
+      internalID: 758113157337162812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893d59cb99ca268e0800000000000000
+      internalID: -1701607932898716776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 59
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3fe9fcf877c5d80800000000000000
+      internalID: -8260596156957002822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846cab21154ea31e0800000000000000
+      internalID: -2217208829668833720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 56
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5bf31baca084d0800000000000000
+      internalID: -3134315489875238952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_45
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 59
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248c436ad5cb2bb0800000000000000
+      internalID: -4959653022858968019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 59
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a6b7e832e5ddad0800000000000000
+      internalID: -2675879096780887507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 56
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953659687853306b0800000000000000
+      internalID: -5331358677681740967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 59
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c636918dbb39cdb0800000000000000
+      internalID: -4771216645113366839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 59
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16eaaf963c853120800000000000000
+      internalID: 2392972943252186654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b2540010008ce40800000000000000
+      internalID: 5676787334600010610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 59
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac3d5a35f548ed0800000000000000
+      internalID: -2412698687494698454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 59
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef0b0a078bf7fc0800000000000000
+      internalID: -3494871991944413668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 59
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f54aa62977f5350800000000000000
+      internalID: 6007651898673618768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 59
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4e430daf60aad70800000000000000
+      internalID: 9055057675086521596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b78df6843d06f0800000000000000
+      internalID: -716859011298250388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_56
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5a24da40dbee760800000000000000
+      internalID: 7489131058148058597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 59
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ca7aaccdf480fa0800000000000000
+      internalID: -5834325507547091812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8eee7040ddc320800000000000000
+      internalID: 2579947136979208950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b91dae7836edad0800000000000000
+      internalID: -2675591693200155832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b7420bb9ce29d80800000000000000
+      internalID: -8245267814342689919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bcc54b2ffa0fd10800000000000000
+      internalID: 2157417678453394309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514bd22a5b6ded5f0800000000000000
+      internalID: -729910013989112811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad69fc8e66f4c70800000000000000
+      internalID: 8957491333964421667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 40
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d447351e6d2895340800000000000000
+      internalID: 4853053932883375181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 40
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87ee4049feaec880800000000000000
+      internalID: -8588735053799954547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc297dab2a37df820800000000000000
+      internalID: 2953644073381499596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 21
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c891d5f51fe4f0800000000000000
+      internalID: -797394463493668635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 21
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82e68dd73aba47d0800000000000000
+      internalID: -2933327458175884660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f434b1315f72e0800000000000000
+      internalID: -2125891225176967518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e48b6f2c4d63b0800000000000000
+      internalID: -5517670201907944768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461c4234297161880800000000000000
+      internalID: -8640692918104571548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f649362cf77dcb0800000000000000
+      internalID: -4839258801715253480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 21
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb25ddbe3416870800000000000000
+      internalID: 8674289037601848231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 21
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8708ae14a825e0a10800000000000000
+      internalID: 1877528848424927352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec85d4d569065c400800000000000000
+      internalID: 343787145490421966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ede87a1e176d50800000000000000
+      internalID: 6730381267175336014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f066dc18a3aa10800000000000000
+      internalID: 1919562707999191219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25391ec331dccc320800000000000000
+      internalID: 2579662169085940562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_79
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 19
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c54c9a3e5cfdf0800000000000000
+      internalID: -145137482159766492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 21
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51069c1000c819e60800000000000000
+      internalID: 7967303147452981269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 21
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e266d3f66be4bfa60800000000000000
+      internalID: 7708841732632045102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121d6e108f4fa3c0800000000000000
+      internalID: -4346167703704366574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 21
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38eb6ee7f5f606d0800000000000000
+      internalID: -3024459654526932932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465fa32ba0c475a50800000000000000
+      internalID: 6509755395210933604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_85
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782979e9c2168c20800000000000000
+      internalID: 3208272442962815099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_86
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea043de137f3ca0800000000000000
+      internalID: -6034978399422730669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc27b70d6ce184370800000000000000
+      internalID: 8306923351934989007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_88
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 21
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64c161b8d23d79a0800000000000000
+      internalID: -6233770402940599185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_89
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 21
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb82ac1e91d80d7f0800000000000000
+      internalID: -589816408883713860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_90
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf18860c0dce7cd0800000000000000
+      internalID: -2558382086766977100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_91
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 18
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45dd31aaa45e5f40800000000000000
+      internalID: 5719101668633466188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_92
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 21
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b35fe7116269ce0800000000000000
+      internalID: -1398888777665660132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d659e04aed6eecd10800000000000000
+      internalID: 2147907916211852653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea7f3b833f366b0800000000000000
+      internalID: -5304128511249240358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97632f5c2fe19f3d0800000000000000
+      internalID: -3172470434453899655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_96
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf6a4a9bec28fec0800000000000000
+      internalID: -3533024517254647876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_97
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358687f712f6b8750800000000000000
+      internalID: 6308257892725712979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f56938e6d1d8c0800000000000000
+      internalID: -3976160703107696856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_99
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870df75b7f5a2160800000000000000
+      internalID: 7001513554062673795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a19bbe0021ee2670800000000000000
+      internalID: 8515991473206563240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_101
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e22dd309d22fc0800000000000000
+      internalID: -3521013348032124547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_102
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba33918fde84e0f50800000000000000
+      internalID: 6849492270183953323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_103
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e57e77f986cf50800000000000000
+      internalID: 6901355175063446929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_104
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7a58821eea05b0800000000000000
+      internalID: -5401243039713034952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: During the journey, when Verso collects EST Pipe, he will earn 1 energy
+        block (equivalent to 5 points), it will be the material to increase the level
+        index. When Verso earns 6 energy blocks, the level bar will incr_105
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640270dbe9010dfa0800000000000000
+      internalID: -5778100047954108346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_0: 4300011444864588039
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_1: 69047782875387998
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_10: -1555083724690080951
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_100: 8515991473206563240
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_101: -3521013348032124547
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_102: 6849492270183953323
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_103: 6901355175063446929
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_104: -5401243039713034952
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_105: -5778100047954108346
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_11: -1304351413520078774
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_12: 3234491113450894593
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_13: 6256140701699115317
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_14: -8071195904357191278
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_15: 645022428865318317
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_16: 6728645054350647059
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_17: -2821308389198320246
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_18: -3492813301822922528
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_19: -1099587019217102732
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_2: -4723614438119418236
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_20: 4058654934545304478
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_21: -1181221052165715107
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_22: -7793905388051842817
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_23: -5709469127601993200
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_24: -67192171083243775
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_25: -3237172878746423756
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_26: 5119748340553368875
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_27: 7430294056206747731
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_28: -2457507713469367809
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_29: 6398269860134558226
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_3: -4532397943154370646
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_30: 3997456448178483093
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_31: -5494022154983080550
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_32: -5403036224554793764
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_33: 7056716370004413157
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_34: -8947320548500812265
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_35: 3444707013542333613
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_36: -865579362376203324
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_37: -3453257174096915386
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_38: -3992437387953517895
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_39: -1950861737278534713
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_4: 2532573351688916859
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_40: 758113157337162812
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_41: -1701607932898716776
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_42: -8260596156957002822
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_43: -2217208829668833720
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_44: -3134315489875238952
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_45: -4959653022858968019
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_46: -2675879096780887507
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_47: -5331358677681740967
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_48: -4771216645113366839
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_49: 2392972943252186654
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_5: 1561397530422219510
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_50: 5676787334600010610
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_51: -2412698687494698454
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_52: -3494871991944413668
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_53: 6007651898673618768
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_54: 9055057675086521596
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_55: -716859011298250388
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_56: 7489131058148058597
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_57: -5834325507547091812
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_58: 2579947136979208950
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_59: -2675591693200155832
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_6: -6264225246554968391
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_60: -8245267814342689919
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_61: 2157417678453394309
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_62: -729910013989112811
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_63: 8957491333964421667
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_64: 4853053932883375181
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_65: -8588735053799954547
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_66: 2953644073381499596
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_67: -797394463493668635
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_68: -2933327458175884660
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_69: -2125891225176967518
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_7: -6317016919438594318
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_70: -5517670201907944768
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_71: -8640692918104571548
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_72: -4839258801715253480
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_73: 8674289037601848231
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_74: 1877528848424927352
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_75: 343787145490421966
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_76: 6730381267175336014
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_77: 1919562707999191219
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_78: 2579662169085940562
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_79: -145137482159766492
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_8: -3480282558677820062
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_80: 7967303147452981269
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_81: 7708841732632045102
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_82: -4346167703704366574
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_83: -3024459654526932932
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_84: 6509755395210933604
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_85: 3208272442962815099
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_86: -6034978399422730669
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_87: 8306923351934989007
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_88: -6233770402940599185
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_89: -589816408883713860
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_9: 6044580174920843669
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_90: -2558382086766977100
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_91: 5719101668633466188
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_92: -1398888777665660132
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_93: 2147907916211852653
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_94: -5304128511249240358
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_95: -3172470434453899655
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_96: -3533024517254647876
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_97: 6308257892725712979
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_98: -3976160703107696856
+      During the journey, when Verso collects EST Pipe, he will earn 1 energy block (equivalent to 5 points), it will be the material to increase the level index. When Verso earns 6 energy blocks, the level bar will incr_99: 7001513554062673795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 50698742ece6adc408bd1794bc5c2f8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5337956559005629130
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_0"
+  - first:
+      213: -4930787141401232274
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_1"
+  - first:
+      213: -2861433060533179554
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_2"
+  - first:
+      213: 4892158887533249833
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_3"
+  - first:
+      213: -7123685758591862626
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_4"
+  - first:
+      213: 6882969680103112735
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_5"
+  - first:
+      213: -2603135730210070986
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_6"
+  - first:
+      213: -4186492995566443179
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_7"
+  - first:
+      213: 9003957867815086482
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_8"
+  - first:
+      213: 4781728599526579867
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_9"
+  - first:
+      213: 3136055156043797027
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_10"
+  - first:
+      213: -4130952559798577463
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_11"
+  - first:
+      213: 1037595062791638044
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_12"
+  - first:
+      213: -6573729657185566888
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_13"
+  - first:
+      213: 2172217434293635425
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_14"
+  - first:
+      213: -1350765541401994063
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_15"
+  - first:
+      213: 7823688641047082344
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_16"
+  - first:
+      213: -1756973109778702441
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_17"
+  - first:
+      213: -4404272260439406428
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_18"
+  - first:
+      213: 5062343584371457876
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_19"
+  - first:
+      213: 4317168121085157803
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_20"
+  - first:
+      213: 2469352621615165455
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_21"
+  - first:
+      213: -6054999215281745011
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_22"
+  - first:
+      213: 547308096054205860
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_23"
+  - first:
+      213: -7689309107006015970
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_24"
+  - first:
+      213: 2792052981696375735
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_25"
+  - first:
+      213: -4907292616091270226
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_26"
+  - first:
+      213: -1463366150541958609
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_27"
+  - first:
+      213: -4698533926013455850
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_28"
+  - first:
+      213: 5066863616999840318
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_29"
+  - first:
+      213: 2316297819605263756
+    second: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_30"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c0029ac4cbe5b0800000000000000
+      internalID: -5337956559005629130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_1"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 31
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c37b52833529bb0800000000000000
+      internalID: -4930787141401232274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_2"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6c5ebac52a48d0800000000000000
+      internalID: -2861433060533179554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_3"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 27
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9258034a69074e340800000000000000
+      internalID: 4892158887533249833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_4"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 31
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e987f93ab85932d90800000000000000
+      internalID: -7123685758591862626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_5"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10845ed478358f50800000000000000
+      internalID: 6882969680103112735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_6"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 27
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e93ba68ddcfdbd0800000000000000
+      internalID: -2603135730210070986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_7"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 27
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e9903dc696e5c0800000000000000
+      internalID: -4186492995566443179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_8"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a3bbc9fb74fc70800000000000000
+      internalID: 9003957867815086482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_9"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e9b1b93dc1c5240800000000000000
+      internalID: 4781728599526579867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_10"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322d5048c81858b20800000000000000
+      internalID: 3136055156043797027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_11"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c617399888eba6c0800000000000000
+      internalID: -4130952559798577463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_12"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 31
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c05625637466e00800000000000000
+      internalID: 1037595062791638044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_13"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ff006b4bb65c4a0800000000000000
+      internalID: -6573729657185566888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_14"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1698bf16f34452e10800000000000000
+      internalID: 2172217434293635425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_15"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 31
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc55e195ed114de0800000000000000
+      internalID: -1350765541401994063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_16"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865beda0e53539c60800000000000000
+      internalID: 7823688641047082344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_17"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 31
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f1ab7f34afd97e0800000000000000
+      internalID: -1756973109778702441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_18"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a80766c6b1e0e2c0800000000000000
+      internalID: -4404272260439406428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_19"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f30752bae014640800000000000000
+      internalID: 5062343584371457876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_20"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ebe46889a9eb30800000000000000
+      internalID: 4317168121085157803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_21"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003d8c4027e44220800000000000000
+      internalID: 2469352621615165455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_22"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83dcd16b4258fba0800000000000000
+      internalID: -6054999215281745011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_23"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad910840dd689700800000000000000
+      internalID: 547308096054205860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_24"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16fabc5b161a4590800000000000000
+      internalID: -7689309107006015970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_25"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2518d46d5fb620800000000000000
+      internalID: 2792052981696375735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_26"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea38bf89d5bc5ebb0800000000000000
+      internalID: -4907292616091270226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_27"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ad944d3411bbe0800000000000000
+      internalID: -1463366150541958609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_28"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b8d6c9447bceb0800000000000000
+      internalID: -4698533926013455850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_29"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a50a04d9d115640800000000000000
+      internalID: 5066863616999840318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u201CKeeping ya sweet motorbike oily and speedy\u201D_30"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 14
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85659b3894252020800000000000000
+      internalID: 2316297819605263756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_0": -5337956559005629130
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_1": -4930787141401232274
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_10": 3136055156043797027
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_11": -4130952559798577463
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_12": 1037595062791638044
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_13": -6573729657185566888
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_14": 2172217434293635425
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_15": -1350765541401994063
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_16": 7823688641047082344
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_17": -1756973109778702441
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_18": -4404272260439406428
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_19": 5062343584371457876
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_2": -2861433060533179554
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_20": 4317168121085157803
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_21": 2469352621615165455
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_22": -6054999215281745011
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_23": 547308096054205860
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_24": -7689309107006015970
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_25": 2792052981696375735
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_26": -4907292616091270226
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_27": -1463366150541958609
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_28": -4698533926013455850
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_29": 5066863616999840318
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_3": 4892158887533249833
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_30": 2316297819605263756
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_4": -7123685758591862626
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_5": 6882969680103112735
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_6": -2603135730210070986
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_7": -4186492995566443179
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_8": 9003957867815086482
+      "\u201CKeeping ya sweet motorbike oily and speedy\u201D_9": 4781728599526579867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

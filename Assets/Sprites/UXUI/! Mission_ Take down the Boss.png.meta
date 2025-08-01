@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 4eed7f27009131f48b02b1bdb175fb52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5169249360447346763
+    second: '! Mission_ Take down the Boss_0'
+  - first:
+      213: -4551055520151514632
+    second: '! Mission_ Take down the Boss_1'
+  - first:
+      213: -1533848596069461438
+    second: '! Mission_ Take down the Boss_2'
+  - first:
+      213: 7810458972194998843
+    second: '! Mission_ Take down the Boss_3'
+  - first:
+      213: 2236371973291082088
+    second: '! Mission_ Take down the Boss_4'
+  - first:
+      213: -2445361087826055697
+    second: '! Mission_ Take down the Boss_5'
+  - first:
+      213: -5894948163458075856
+    second: '! Mission_ Take down the Boss_6'
+  - first:
+      213: 3924117450385549516
+    second: '! Mission_ Take down the Boss_7'
+  - first:
+      213: 5294971247918330955
+    second: '! Mission_ Take down the Boss_8'
+  - first:
+      213: -8516225437225532448
+    second: '! Mission_ Take down the Boss_9'
+  - first:
+      213: -6655858847084204350
+    second: '! Mission_ Take down the Boss_10'
+  - first:
+      213: 8525741661874829073
+    second: '! Mission_ Take down the Boss_11'
+  - first:
+      213: -1352939426884548614
+    second: '! Mission_ Take down the Boss_12'
+  - first:
+      213: -3410585415176762529
+    second: '! Mission_ Take down the Boss_13'
+  - first:
+      213: -5540104775446868434
+    second: '! Mission_ Take down the Boss_14'
+  - first:
+      213: 6133807401203212156
+    second: '! Mission_ Take down the Boss_15'
+  - first:
+      213: 928401054886945218
+    second: '! Mission_ Take down the Boss_16'
+  - first:
+      213: -3825988895749125914
+    second: '! Mission_ Take down the Boss_17'
+  - first:
+      213: 6281488829330223765
+    second: '! Mission_ Take down the Boss_18'
+  - first:
+      213: -3610895717024773968
+    second: '! Mission_ Take down the Boss_19'
+  - first:
+      213: -6960179119980980086
+    second: '! Mission_ Take down the Boss_20'
+  - first:
+      213: -3803222991290861545
+    second: '! Mission_ Take down the Boss_21'
+  - first:
+      213: -3188934558944450521
+    second: '! Mission_ Take down the Boss_22'
+  - first:
+      213: 7670339637227178020
+    second: '! Mission_ Take down the Boss_23'
+  - first:
+      213: 4882114762391218809
+    second: '! Mission_ Take down the Boss_24'
+  - first:
+      213: 4635886484403869786
+    second: '! Mission_ Take down the Boss_25'
+  - first:
+      213: -9069744728822119047
+    second: '! Mission_ Take down the Boss_26'
+  - first:
+      213: 8339503712722189313
+    second: '! Mission_ Take down the Boss_27'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4811ecc7ecdcb740800000000000000
+      internalID: 5169249360447346763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_1'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d940fd1767d0c0800000000000000
+      internalID: -4551055520151514632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_2'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2425c0c14dca6bae0800000000000000
+      internalID: -1533848596069461438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_3'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a027abd03546c60800000000000000
+      internalID: 7810458972194998843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_4'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86187adf570390f10800000000000000
+      internalID: 2236371973291082088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_5'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda094fb05501ed0800000000000000
+      internalID: -2445361087826055697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_6'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337dbbc0efe03ea0800000000000000
+      internalID: -5894948163458075856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_7'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8642fb704457630800000000000000
+      internalID: 3924117450385549516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_8'
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443418cb448b7940800000000000000
+      internalID: 5294971247918330955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_9'
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3c603f51a40d980800000000000000
+      internalID: -8516225437225532448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_10'
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea76094a3a1a3a0800000000000000
+      internalID: -6655858847084204350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_11'
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173cc2ced4815670800000000000000
+      internalID: 8525741661874829073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_12'
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70de962c4693de0800000000000000
+      internalID: -1352939426884548614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_13'
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bc24c82aa2ba0d0800000000000000
+      internalID: -3410585415176762529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_14'
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4b093f089d13b0800000000000000
+      internalID: -5540104775446868434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_15'
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f11654559af1550800000000000000
+      internalID: 6133807401203212156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_16'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c162ad27d752ec00800000000000000
+      internalID: 928401054886945218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_17'
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c84ace5b57eac0800000000000000
+      internalID: -3825988895749125914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_18'
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592ffcc3fc45c2750800000000000000
+      internalID: 6281488829330223765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_19'
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b842c90a7583edc0800000000000000
+      internalID: -3610895717024773968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_20'
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88517c87f9786f90800000000000000
+      internalID: -6960179119980980086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_21'
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718728af6dc383bc0800000000000000
+      internalID: -3803222991290861545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_22'
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72826221ae0aeb3d0800000000000000
+      internalID: -3188934558944450521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_23'
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4284687c245827a60800000000000000
+      internalID: 7670339637227178020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_24'
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae4058281c0c340800000000000000
+      internalID: 4882114762391218809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_25'
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a585de1123af55040800000000000000
+      internalID: 4635886484403869786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_26'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750613093bc12280800000000000000
+      internalID: -9069744728822119047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Take down the Boss_27'
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7bdf217edbb370800000000000000
+      internalID: 8339503712722189313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '! Mission_ Take down the Boss_0': 5169249360447346763
+      '! Mission_ Take down the Boss_1': -4551055520151514632
+      '! Mission_ Take down the Boss_10': -6655858847084204350
+      '! Mission_ Take down the Boss_11': 8525741661874829073
+      '! Mission_ Take down the Boss_12': -1352939426884548614
+      '! Mission_ Take down the Boss_13': -3410585415176762529
+      '! Mission_ Take down the Boss_14': -5540104775446868434
+      '! Mission_ Take down the Boss_15': 6133807401203212156
+      '! Mission_ Take down the Boss_16': 928401054886945218
+      '! Mission_ Take down the Boss_17': -3825988895749125914
+      '! Mission_ Take down the Boss_18': 6281488829330223765
+      '! Mission_ Take down the Boss_19': -3610895717024773968
+      '! Mission_ Take down the Boss_2': -1533848596069461438
+      '! Mission_ Take down the Boss_20': -6960179119980980086
+      '! Mission_ Take down the Boss_21': -3803222991290861545
+      '! Mission_ Take down the Boss_22': -3188934558944450521
+      '! Mission_ Take down the Boss_23': 7670339637227178020
+      '! Mission_ Take down the Boss_24': 4882114762391218809
+      '! Mission_ Take down the Boss_25': 4635886484403869786
+      '! Mission_ Take down the Boss_26': -9069744728822119047
+      '! Mission_ Take down the Boss_27': 8339503712722189313
+      '! Mission_ Take down the Boss_3': 7810458972194998843
+      '! Mission_ Take down the Boss_4': 2236371973291082088
+      '! Mission_ Take down the Boss_5': -2445361087826055697
+      '! Mission_ Take down the Boss_6': -5894948163458075856
+      '! Mission_ Take down the Boss_7': 3924117450385549516
+      '! Mission_ Take down the Boss_8': 5294971247918330955
+      '! Mission_ Take down the Boss_9': -8516225437225532448
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

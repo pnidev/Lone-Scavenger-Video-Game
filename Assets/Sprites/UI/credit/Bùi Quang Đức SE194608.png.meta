@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: e22526c9bc89ed941a15aa5b6a57e4e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4185719738200467255
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_0"
+  - first:
+      213: -6427147057616205141
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_1"
+  - first:
+      213: 8936635807711468145
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_2"
+  - first:
+      213: -2821437821711377721
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_3"
+  - first:
+      213: 8032397788133026932
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_4"
+  - first:
+      213: -2639218107640045908
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_5"
+  - first:
+      213: -3404947887248974034
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_6"
+  - first:
+      213: 5970487912937280348
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_7"
+  - first:
+      213: -4181423542269137330
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_8"
+  - first:
+      213: -7726313760023799038
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_9"
+  - first:
+      213: 6681084219976909219
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_10"
+  - first:
+      213: -3497671983510153066
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_11"
+  - first:
+      213: -6058408046872959020
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_12"
+  - first:
+      213: 4572891561423821096
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_13"
+  - first:
+      213: -7914740112968610000
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_14"
+  - first:
+      213: 1706337381238966896
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_15"
+  - first:
+      213: -8535966408034809107
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_16"
+  - first:
+      213: -250045279862882802
+    second: "B\xF9i Quang \u0110\u1EE9c SE194608_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a7cccce9a61a30800000000000000
+      internalID: 4185719738200467255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_1"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac697bdcf2ec6a0800000000000000
+      internalID: -6427147057616205141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_2"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 60
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9da53bee450c70800000000000000
+      internalID: 8936635807711468145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_3"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 45
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca9a01ff3d38d8d0800000000000000
+      internalID: -2821437821711377721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_4"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6d481b3fc87f60800000000000000
+      internalID: 8032397788133026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_5"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae16514d1d9f5bd0800000000000000
+      internalID: -2639218107640045908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_6"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fdecdcfe13fb0d0800000000000000
+      internalID: -3404947887248974034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_7"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53d362bf1f6bd250800000000000000
+      internalID: 5970487912937280348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_8"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea793417998f5c0800000000000000
+      internalID: -4181423542269137330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_9"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 22
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b919e229e96c490800000000000000
+      internalID: -7726313760023799038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_10"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 22
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1013e33baf7bc50800000000000000
+      internalID: 6681084219976909219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_11"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6989a0accd5c57fc0800000000000000
+      internalID: -3497671983510153066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_12"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7e4cdeaf53ceba0800000000000000
+      internalID: -6058408046872959020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_13"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295c0b95ac267f30800000000000000
+      internalID: 4572891561423821096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_14"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f88f42dc1392290800000000000000
+      internalID: -7914740112968610000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_15"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a08b3cec02ea710800000000000000
+      internalID: 1706337381238966896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_16"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0b6207c72a8980800000000000000
+      internalID: -8535966408034809107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9i Quang \u0110\u1EE9c SE194608_17"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e720c8429a78cf0800000000000000
+      internalID: -250045279862882802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "B\xF9i Quang \u0110\u1EE9c SE194608_0": 4185719738200467255
+      "B\xF9i Quang \u0110\u1EE9c SE194608_1": -6427147057616205141
+      "B\xF9i Quang \u0110\u1EE9c SE194608_10": 6681084219976909219
+      "B\xF9i Quang \u0110\u1EE9c SE194608_11": -3497671983510153066
+      "B\xF9i Quang \u0110\u1EE9c SE194608_12": -6058408046872959020
+      "B\xF9i Quang \u0110\u1EE9c SE194608_13": 4572891561423821096
+      "B\xF9i Quang \u0110\u1EE9c SE194608_14": -7914740112968610000
+      "B\xF9i Quang \u0110\u1EE9c SE194608_15": 1706337381238966896
+      "B\xF9i Quang \u0110\u1EE9c SE194608_16": -8535966408034809107
+      "B\xF9i Quang \u0110\u1EE9c SE194608_17": -250045279862882802
+      "B\xF9i Quang \u0110\u1EE9c SE194608_2": 8936635807711468145
+      "B\xF9i Quang \u0110\u1EE9c SE194608_3": -2821437821711377721
+      "B\xF9i Quang \u0110\u1EE9c SE194608_4": 8032397788133026932
+      "B\xF9i Quang \u0110\u1EE9c SE194608_5": -2639218107640045908
+      "B\xF9i Quang \u0110\u1EE9c SE194608_6": -3404947887248974034
+      "B\xF9i Quang \u0110\u1EE9c SE194608_7": 5970487912937280348
+      "B\xF9i Quang \u0110\u1EE9c SE194608_8": -4181423542269137330
+      "B\xF9i Quang \u0110\u1EE9c SE194608_9": -7726313760023799038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

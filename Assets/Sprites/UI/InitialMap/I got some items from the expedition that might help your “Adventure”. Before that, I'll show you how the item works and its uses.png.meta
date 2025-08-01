@@ -1,0 +1,3169 @@
+fileFormatVersion: 2
+guid: 9478b381bbda2e6469b0068bb022a18a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5687845759687218780
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_0"
+  - first:
+      213: -5643185282022528745
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_1"
+  - first:
+      213: 7247943180429725191
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_2"
+  - first:
+      213: 6706313878065820831
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_3"
+  - first:
+      213: -771642427753194069
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_4"
+  - first:
+      213: -3958232552488382500
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_5"
+  - first:
+      213: 1121428940922982916
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_6"
+  - first:
+      213: -4131111121014035369
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_7"
+  - first:
+      213: -5851759810298253741
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_8"
+  - first:
+      213: -4163029618320220709
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_9"
+  - first:
+      213: -3589805778729408809
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_10"
+  - first:
+      213: -2205843781205981408
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_11"
+  - first:
+      213: 181066851315935623
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_12"
+  - first:
+      213: 147803097267860374
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_13"
+  - first:
+      213: 6030582127978821688
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_14"
+  - first:
+      213: -6937789102646488857
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_15"
+  - first:
+      213: 866243089775239802
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_16"
+  - first:
+      213: 3155713786154826644
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_17"
+  - first:
+      213: 3840593475317767951
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_18"
+  - first:
+      213: 4968505823038450120
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_19"
+  - first:
+      213: 1332671543579716210
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_20"
+  - first:
+      213: -3129668294163502693
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_21"
+  - first:
+      213: -1915023726150995001
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_22"
+  - first:
+      213: -1514907168735340162
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_23"
+  - first:
+      213: 734392629155678918
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_24"
+  - first:
+      213: 7984099527860167154
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_25"
+  - first:
+      213: 3525514977964031632
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_26"
+  - first:
+      213: -4914934876657244708
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_27"
+  - first:
+      213: -6128494233559693024
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_28"
+  - first:
+      213: 5704557419569918966
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_29"
+  - first:
+      213: -4151947966439874196
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_30"
+  - first:
+      213: -6526087823253908549
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_31"
+  - first:
+      213: -5181260985266328794
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_32"
+  - first:
+      213: -7424130787393963147
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_33"
+  - first:
+      213: -1311514663292828872
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_34"
+  - first:
+      213: -2406274046400969470
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_35"
+  - first:
+      213: 5329535599113262356
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_36"
+  - first:
+      213: -6410704675250168570
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_37"
+  - first:
+      213: -5195274489514841950
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_38"
+  - first:
+      213: 502617077553553216
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_39"
+  - first:
+      213: 6591390787077720951
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_40"
+  - first:
+      213: 1051463201545666428
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_41"
+  - first:
+      213: 8171007604153432923
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_42"
+  - first:
+      213: 1177513056502517817
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_43"
+  - first:
+      213: 7908159983369112451
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_44"
+  - first:
+      213: 8644993026788964431
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_45"
+  - first:
+      213: -5776118096654373663
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_46"
+  - first:
+      213: -6707212778671493616
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_47"
+  - first:
+      213: -643162624151922315
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_48"
+  - first:
+      213: 2285033187445374889
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_49"
+  - first:
+      213: -1962645661861992040
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_50"
+  - first:
+      213: -978118143489472142
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_51"
+  - first:
+      213: 1680443887227098039
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_52"
+  - first:
+      213: -2795297555036097928
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_53"
+  - first:
+      213: 5090985381697452813
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_54"
+  - first:
+      213: -8921435158546698115
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_55"
+  - first:
+      213: 7152426105669853467
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_56"
+  - first:
+      213: 7531243800019965346
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_57"
+  - first:
+      213: -1817575750310384290
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_58"
+  - first:
+      213: -4013680688327996841
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_59"
+  - first:
+      213: -1104943729116596376
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_60"
+  - first:
+      213: 6165334524353102192
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_61"
+  - first:
+      213: -8545572049364167769
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_62"
+  - first:
+      213: -1383303869712053894
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_63"
+  - first:
+      213: -162942497652219706
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_64"
+  - first:
+      213: -1863509428223763933
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_65"
+  - first:
+      213: -1671788449226848760
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_66"
+  - first:
+      213: -3162512233528260885
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_67"
+  - first:
+      213: -5003468818111949324
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_68"
+  - first:
+      213: -3470649713207753572
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_69"
+  - first:
+      213: -6813025041032809053
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_70"
+  - first:
+      213: 5118729741662772136
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_71"
+  - first:
+      213: -2427291523656234884
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_72"
+  - first:
+      213: -1757679908279072077
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_73"
+  - first:
+      213: 2618839404803479839
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_74"
+  - first:
+      213: 8602473089121905033
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_75"
+  - first:
+      213: -2886903939165723520
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_76"
+  - first:
+      213: 8706797944949469439
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_77"
+  - first:
+      213: 4443320860767959540
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_78"
+  - first:
+      213: -906790978747318352
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_79"
+  - first:
+      213: 3118671262878581205
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_80"
+  - first:
+      213: 8599467807249175997
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_81"
+  - first:
+      213: -244069035653081110
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_82"
+  - first:
+      213: -237581361448354037
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_83"
+  - first:
+      213: -6300320781404058309
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_84"
+  - first:
+      213: -7489570701723824280
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_85"
+  - first:
+      213: 6345503059426450821
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_86"
+  - first:
+      213: 9149193325930384658
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_87"
+  - first:
+      213: -8891753811350389753
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_88"
+  - first:
+      213: 1339559922254151783
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_89"
+  - first:
+      213: 1725929066576182293
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_90"
+  - first:
+      213: 7016400182535507245
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_91"
+  - first:
+      213: 3337009245658402493
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_92"
+  - first:
+      213: 1580715317136543643
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_93"
+  - first:
+      213: 7264487343388539965
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_94"
+  - first:
+      213: 3449661156841261929
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_95"
+  - first:
+      213: -5589168834990928160
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_96"
+  - first:
+      213: 8354264132126097697
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_97"
+  - first:
+      213: -316545621581715301
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_98"
+  - first:
+      213: -6239193033348802202
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_99"
+  - first:
+      213: -5063951831185634219
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_100"
+  - first:
+      213: 1251417411943473901
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_101"
+  - first:
+      213: 1587970786503833473
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_102"
+  - first:
+      213: 2140929795548983663
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_103"
+  - first:
+      213: 2059643150298020401
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_104"
+  - first:
+      213: -1317378353344534858
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_105"
+  - first:
+      213: -4153846100648344991
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_106"
+  - first:
+      213: 3652286970160019025
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_107"
+  - first:
+      213: 5493071128140712469
+    second: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+      Before that, I'll show you how the item works and its uses_108"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a1a4ca66b011b0800000000000000
+      internalID: -5687845759687218780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_1"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719a55782e06fa1b0800000000000000
+      internalID: -5643185282022528745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_2"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 103
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e8abddbedd59460800000000000000
+      internalID: 7247943180429725191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_3"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b266c0fc911d50800000000000000
+      internalID: 6706313878065820831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_4"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad9620ec439a45f0800000000000000
+      internalID: -771642427753194069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_5"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 103
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfca8217788119c0800000000000000
+      internalID: -3958232552488382500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_6"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029e802ead109f00800000000000000
+      internalID: 1121428940922982916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_7"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cea40b2585ba6c0800000000000000
+      internalID: -4131111121014035369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_8"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 103
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee34cd47f5acea0800000000000000
+      internalID: -5851759810298253741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_9"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 103
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd79a6e92f936c0800000000000000
+      internalID: -4163029618320220709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_10"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d66032f9a27e2ec0800000000000000
+      internalID: -3589805778729408809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_11"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 103
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027863f94c44361e0800000000000000
+      internalID: -2205843781205981408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_12"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e8498757438200800000000000000
+      internalID: 181066851315935623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_13"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 103
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937a55422a1d0200800000000000000
+      internalID: 147803097267860374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_14"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 103
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383ff67e7ee0b350800000000000000
+      internalID: 6030582127978821688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_15"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e01e22b19508bf90800000000000000
+      internalID: -6937789102646488857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_16"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 103
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a0372083850c00800000000000000
+      internalID: 866243089775239802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_17"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 103
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbf8408f85bcb20800000000000000
+      internalID: 3155713786154826644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_18"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 103
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f9ffeda678c4530800000000000000
+      internalID: 3840593475317767951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_19"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9aaa6c8bda3f440800000000000000
+      internalID: 4968505823038450120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_20"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a275545b99e7210800000000000000
+      internalID: 1332671543579716210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_21"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e495a44f2194d0800000000000000
+      internalID: -3129668294163502693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_22"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 96
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3335a31187c65e0800000000000000
+      internalID: -1915023726150995001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_23"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7956d3d4f7f9fae0800000000000000
+      internalID: -1514907168735340162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_24"
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 103
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca4d7a8436113a00800000000000000
+      internalID: 734392629155678918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_25"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1287118383dce60800000000000000
+      internalID: 7984099527860167154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_26"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 103
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e7dd781352de030800000000000000
+      internalID: 3525514977964031632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_27"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 103
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5aaa625c4aacbb0800000000000000
+      internalID: -4914934876657244708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_28"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02905a8f6f633faa0800000000000000
+      internalID: -6128494233559693024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_29"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 103
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3b842cfb8aa2f40800000000000000
+      internalID: 5704557419569918966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_30"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 103
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61227e82515166c0800000000000000
+      internalID: -4151947966439874196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_31"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3d2f193bdae65a0800000000000000
+      internalID: -6526087823253908549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_32"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 103
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2c9cd5967818b0800000000000000
+      internalID: -5181260985266328794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_33"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 103
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b7753326038f890800000000000000
+      internalID: -7424130787393963147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_34"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 103
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83307b8cc509ccde0800000000000000
+      internalID: -1311514663292828872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_35"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 103
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054708f0823b9ed0800000000000000
+      internalID: -2406274046400969470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_36"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 103
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415d1fae36056f940800000000000000
+      internalID: 5329535599113262356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_37"
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 127
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d17cf201a9807a0800000000000000
+      internalID: -6410704675250168570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_38"
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 103
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a1d5a06da6e7b0800000000000000
+      internalID: -5195274489514841950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_39"
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 96
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fdf9da197a9f600800000000000000
+      internalID: 502617077553553216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_40"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 103
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bcc878ff2597b50800000000000000
+      internalID: 6591390787077720951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_41"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f368ef53c879e00800000000000000
+      internalID: 1051463201545666428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_42"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb496cf10456170800000000000000
+      internalID: 8171007604153432923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_43"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 55
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930973bd2ed575010800000000000000
+      internalID: 1177513056502517817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_44"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bccab0b9d6fbd60800000000000000
+      internalID: 7908159983369112451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_45"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f483c7fca5f29f770800000000000000
+      internalID: 8644993026788964431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_46"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece53cb13b17dfa0800000000000000
+      internalID: -5776118096654373663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_47"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e235e93813be2a0800000000000000
+      internalID: -6707212778671493616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_48"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 55
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579dd9e30070317f0800000000000000
+      internalID: -643162624151922315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_49"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 73
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff8adc39116bf10800000000000000
+      internalID: 2285033187445374889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_50"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89921c84b2843c4e0800000000000000
+      internalID: -1962645661861992040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_51"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 55
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27902f41bb60d62f0800000000000000
+      internalID: -978118143489472142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_52"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 55
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d523efc2225710800000000000000
+      internalID: 1680443887227098039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_53"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8723e8e0fab1539d0800000000000000
+      internalID: -2795297555036097928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_54"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b78c04b30d6a640800000000000000
+      internalID: 5090985381697452813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_55"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 55
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b428bdf1b03480800000000000000
+      internalID: -8921435158546698115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_56"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11aeaed5a5824360800000000000000
+      internalID: 7152426105669853467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_57"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 55
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59d09755a548860800000000000000
+      internalID: 7531243800019965346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_58"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 73
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5da26a2c7ca6c6e0800000000000000
+      internalID: -1817575750310384290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_59"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 73
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4d5aedaa8c48c0800000000000000
+      internalID: -4013680688327996841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_60"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 55
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b53958837aa0f0800000000000000
+      internalID: -1104943729116596376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_61"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071c485a51baf8550800000000000000
+      internalID: 6165334524353102192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_62"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 55
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3542b5f77086980800000000000000
+      internalID: -8545572049364167769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_63"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79c365a5748dcce0800000000000000
+      internalID: -1383303869712053894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_64"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 55
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ef9469ac1dbdf0800000000000000
+      internalID: -162942497652219706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_65"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a912f5c0c7326e0800000000000000
+      internalID: -1863509428223763933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_66"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 55
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068b30534d9cc8e0800000000000000
+      internalID: -1671788449226848760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_67"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be688ba11ef7c14d0800000000000000
+      internalID: -3162512233528260885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_68"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 55
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f591b39e9b109ab0800000000000000
+      internalID: -5003468818111949324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_69"
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 55
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94c0706976c5dfc0800000000000000
+      internalID: -3470649713207753572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_70"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 73
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f56772d54371a0800000000000000
+      internalID: -6813025041032809053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_71"
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 55
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab59017491690740800000000000000
+      internalID: 5118729741662772136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_72"
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 55
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7847263837805ed0800000000000000
+      internalID: -2427291523656234884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_73"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba4f2e9f677b97e0800000000000000
+      internalID: -1757679908279072077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_74"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 55
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f195b1f309cf75420800000000000000
+      internalID: 2618839404803479839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_75"
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989e7fa52bf126770800000000000000
+      internalID: 8602473089121905033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_76"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 55
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084e95da928afe7d0800000000000000
+      internalID: -2886903939165723520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_77"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff070dfa992c4d870800000000000000
+      internalID: 8706797944949469439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_78"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 50
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f93829f7c8d9ad30800000000000000
+      internalID: 4443320860767959540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_79"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfbc32c86e6a63f0800000000000000
+      internalID: -906790978747318352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_80"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1c81b7dfeb74b20800000000000000
+      internalID: 3118671262878581205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_81"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db59e74a862775770800000000000000
+      internalID: 8599467807249175997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_82"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7d9355184ec9cf0800000000000000
+      internalID: -244069035653081110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_83"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffd91b201f3bcf0800000000000000
+      internalID: -237581361448354037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_84"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d466d31a3c098a0800000000000000
+      internalID: -6300320781404058309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_85"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f0493d023bf0890800000000000000
+      internalID: -7489570701723824280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_86"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d9442a961cf0850800000000000000
+      internalID: 6345503059426450821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_87"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d847dfad678fe70800000000000000
+      internalID: 9149193325930384658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_88"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cfb34e4052a9480800000000000000
+      internalID: -8891753811350389753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_89"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 7
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600f49e6a2179210800000000000000
+      internalID: 1339559922254151783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_90"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c7bc8775bb3f710800000000000000
+      internalID: 1725929066576182293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_91"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dc302aac24f5160800000000000000
+      internalID: 7016400182535507245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_92"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 7
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbec9ab8a307f4e20800000000000000
+      internalID: 3337009245658402493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_93"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f41f8b434dfe510800000000000000
+      internalID: 1580715317136543643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_94"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cbef9ffb4a0d460800000000000000
+      internalID: 7264487343388539965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_95"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 7
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8cf88b88afdf20800000000000000
+      internalID: 3449661156841261929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_96"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee8ea8ae884f62b0800000000000000
+      internalID: -5589168834990928160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_97"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c92327fe40f370800000000000000
+      internalID: 8354264132126097697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_98"
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98aa6e2f676b9bf0800000000000000
+      internalID: -316545621581715301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_99"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669172a2efee969a0800000000000000
+      internalID: -6239193033348802202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_100"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ccd76b3aa39b9b0800000000000000
+      internalID: -5063951831185634219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_101"
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de221a0818ded5110800000000000000
+      internalID: 1251417411943473901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_102"
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 7
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1873243540b990610800000000000000
+      internalID: 1587970786503833473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_103"
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f613fb05e4c16bd10800000000000000
+      internalID: 2140929795548983663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_104"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a74916882559c10800000000000000
+      internalID: 2059643150298020401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_105"
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b62c1e0e5bb7bde0800000000000000
+      internalID: -1317378353344534858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_106"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162c63fbaf29a56c0800000000000000
+      internalID: -4153846100648344991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_107"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156fc2216a78fa230800000000000000
+      internalID: 3652286970160019025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "I got some items from the expedition that might help your \u201CAdventure\u201D.
+        Before that, I'll show you how the item works and its uses_108"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a08c6661f4b3c40800000000000000
+      internalID: 5493071128140712469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_0": -5687845759687218780
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_1": -5643185282022528745
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_10": -3589805778729408809
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_100": -5063951831185634219
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_101": 1251417411943473901
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_102": 1587970786503833473
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_103": 2140929795548983663
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_104": 2059643150298020401
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_105": -1317378353344534858
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_106": -4153846100648344991
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_107": 3652286970160019025
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_108": 5493071128140712469
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_11": -2205843781205981408
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_12": 181066851315935623
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_13": 147803097267860374
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_14": 6030582127978821688
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_15": -6937789102646488857
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_16": 866243089775239802
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_17": 3155713786154826644
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_18": 3840593475317767951
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_19": 4968505823038450120
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_2": 7247943180429725191
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_20": 1332671543579716210
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_21": -3129668294163502693
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_22": -1915023726150995001
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_23": -1514907168735340162
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_24": 734392629155678918
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_25": 7984099527860167154
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_26": 3525514977964031632
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_27": -4914934876657244708
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_28": -6128494233559693024
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_29": 5704557419569918966
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_3": 6706313878065820831
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_30": -4151947966439874196
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_31": -6526087823253908549
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_32": -5181260985266328794
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_33": -7424130787393963147
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_34": -1311514663292828872
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_35": -2406274046400969470
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_36": 5329535599113262356
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_37": -6410704675250168570
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_38": -5195274489514841950
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_39": 502617077553553216
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_4": -771642427753194069
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_40": 6591390787077720951
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_41": 1051463201545666428
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_42": 8171007604153432923
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_43": 1177513056502517817
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_44": 7908159983369112451
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_45": 8644993026788964431
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_46": -5776118096654373663
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_47": -6707212778671493616
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_48": -643162624151922315
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_49": 2285033187445374889
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_5": -3958232552488382500
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_50": -1962645661861992040
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_51": -978118143489472142
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_52": 1680443887227098039
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_53": -2795297555036097928
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_54": 5090985381697452813
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_55": -8921435158546698115
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_56": 7152426105669853467
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_57": 7531243800019965346
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_58": -1817575750310384290
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_59": -4013680688327996841
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_6": 1121428940922982916
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_60": -1104943729116596376
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_61": 6165334524353102192
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_62": -8545572049364167769
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_63": -1383303869712053894
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_64": -162942497652219706
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_65": -1863509428223763933
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_66": -1671788449226848760
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_67": -3162512233528260885
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_68": -5003468818111949324
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_69": -3470649713207753572
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_7": -4131111121014035369
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_70": -6813025041032809053
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_71": 5118729741662772136
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_72": -2427291523656234884
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_73": -1757679908279072077
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_74": 2618839404803479839
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_75": 8602473089121905033
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_76": -2886903939165723520
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_77": 8706797944949469439
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_78": 4443320860767959540
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_79": -906790978747318352
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_8": -5851759810298253741
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_80": 3118671262878581205
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_81": 8599467807249175997
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_82": -244069035653081110
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_83": -237581361448354037
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_84": -6300320781404058309
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_85": -7489570701723824280
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_86": 6345503059426450821
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_87": 9149193325930384658
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_88": -8891753811350389753
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_89": 1339559922254151783
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_9": -4163029618320220709
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_90": 1725929066576182293
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_91": 7016400182535507245
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_92": 3337009245658402493
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_93": 1580715317136543643
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_94": 7264487343388539965
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_95": 3449661156841261929
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_96": -5589168834990928160
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_97": 8354264132126097697
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_98": -316545621581715301
+      "I got some items from the expedition that might help your \u201CAdventure\u201D. Before that, I'll show you how the item works and its uses_99": -6239193033348802202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

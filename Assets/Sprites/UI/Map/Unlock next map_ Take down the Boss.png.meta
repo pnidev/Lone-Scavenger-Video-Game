@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 7e3ca961eeaa8fa49ba8f374006c4e64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1741036414204732509
+    second: Unlock next map_ Take down the Boss_0
+  - first:
+      213: 5461172106636514784
+    second: Unlock next map_ Take down the Boss_1
+  - first:
+      213: 7608533246344392796
+    second: Unlock next map_ Take down the Boss_2
+  - first:
+      213: -2376191841667416401
+    second: Unlock next map_ Take down the Boss_3
+  - first:
+      213: 6806727940663575360
+    second: Unlock next map_ Take down the Boss_4
+  - first:
+      213: -6919086210043162190
+    second: Unlock next map_ Take down the Boss_5
+  - first:
+      213: 3428764912614392665
+    second: Unlock next map_ Take down the Boss_6
+  - first:
+      213: 3722030556147877593
+    second: Unlock next map_ Take down the Boss_7
+  - first:
+      213: -5255914058116075427
+    second: Unlock next map_ Take down the Boss_8
+  - first:
+      213: -5476346362320661476
+    second: Unlock next map_ Take down the Boss_9
+  - first:
+      213: 1454494042112926672
+    second: Unlock next map_ Take down the Boss_10
+  - first:
+      213: 3868718296096140793
+    second: Unlock next map_ Take down the Boss_11
+  - first:
+      213: 7353751693777382106
+    second: Unlock next map_ Take down the Boss_12
+  - first:
+      213: 7226490695515918717
+    second: Unlock next map_ Take down the Boss_13
+  - first:
+      213: 8156422916517907449
+    second: Unlock next map_ Take down the Boss_14
+  - first:
+      213: 1545594370389154392
+    second: Unlock next map_ Take down the Boss_15
+  - first:
+      213: 848857203923074891
+    second: Unlock next map_ Take down the Boss_16
+  - first:
+      213: -7602928974852869159
+    second: Unlock next map_ Take down the Boss_17
+  - first:
+      213: -5769966467823975554
+    second: Unlock next map_ Take down the Boss_18
+  - first:
+      213: -8919359362143467616
+    second: Unlock next map_ Take down the Boss_19
+  - first:
+      213: 6980992808558297693
+    second: Unlock next map_ Take down the Boss_20
+  - first:
+      213: 7226734335656488085
+    second: Unlock next map_ Take down the Boss_21
+  - first:
+      213: -815233246928855970
+    second: Unlock next map_ Take down the Boss_22
+  - first:
+      213: 4629231253280478409
+    second: Unlock next map_ Take down the Boss_23
+  - first:
+      213: 5600345493021155934
+    second: Unlock next map_ Take down the Boss_24
+  - first:
+      213: 7418836108815978145
+    second: Unlock next map_ Take down the Boss_25
+  - first:
+      213: -8643854244093536950
+    second: Unlock next map_ Take down the Boss_26
+  - first:
+      213: 1181195417550185038
+    second: Unlock next map_ Take down the Boss_27
+  - first:
+      213: 1319971302064817194
+    second: Unlock next map_ Take down the Boss_28
+  - first:
+      213: -2137420454631018782
+    second: Unlock next map_ Take down the Boss_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5461b1f467692810800000000000000
+      internalID: 1741036414204732509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55751b81bf9cb40800000000000000
+      internalID: 5461172106636514784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507b120da0f69960800000000000000
+      internalID: 7608533246344392796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae7b3f0c12160fd0800000000000000
+      internalID: -2376191841667416401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0438af99ffa567e50800000000000000
+      internalID: 6806727940663575360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 6
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1d21830c77aff90800000000000000
+      internalID: -6919086210043162190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95344ba858b659f20800000000000000
+      internalID: 3428764912614392665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d60856121f47a330800000000000000
+      internalID: 3722030556147877593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50720cd20e3f07b0800000000000000
+      internalID: -5255914058116075427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 6
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14dfd69ffb1004b0800000000000000
+      internalID: -5476346362320661476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3201400a66f2410800000000000000
+      internalID: 1454494042112926672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd6ddefac270b530800000000000000
+      internalID: 3868718296096140793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada27022436cd0660800000000000000
+      internalID: 7353751693777382106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7154eefff6a94460800000000000000
+      internalID: 7226490695515918717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 6
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc7e09d6f613170800000000000000
+      internalID: 8156422916517907449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a93e514ed037510800000000000000
+      internalID: 1545594370389154392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 6
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fbdd8212fb7cb00800000000000000
+      internalID: 848857203923074891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3be512168fc7690800000000000000
+      internalID: -7602928974852869159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73cf6f6116fcefa0800000000000000
+      internalID: -5769966467823975554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7426bbae1183480800000000000000
+      internalID: -8919359362143467616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d528ca5f8f771e060800000000000000
+      internalID: 6980992808558297693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 6
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c6ce2e6948a4460800000000000000
+      internalID: 7226734335656488085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c97b36ea5bfa4f0800000000000000
+      internalID: -815233246928855970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 6
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c45be25c455e3040800000000000000
+      internalID: 4629231253280478409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 6
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526cf2dd8c68bd40800000000000000
+      internalID: 5600345493021155934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae41d0622005f660800000000000000
+      internalID: 7418836108815978145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a455d82bc5cda0880800000000000000
+      internalID: -8643854244093536950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e56959f2746010800000000000000
+      internalID: 1181195417550185038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_28
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 6
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24884dd7ea715210800000000000000
+      internalID: 1319971302064817194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock next map_ Take down the Boss_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee601acb6b5652e0800000000000000
+      internalID: -2137420454631018782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Unlock next map_ Take down the Boss_0: 1741036414204732509
+      Unlock next map_ Take down the Boss_1: 5461172106636514784
+      Unlock next map_ Take down the Boss_10: 1454494042112926672
+      Unlock next map_ Take down the Boss_11: 3868718296096140793
+      Unlock next map_ Take down the Boss_12: 7353751693777382106
+      Unlock next map_ Take down the Boss_13: 7226490695515918717
+      Unlock next map_ Take down the Boss_14: 8156422916517907449
+      Unlock next map_ Take down the Boss_15: 1545594370389154392
+      Unlock next map_ Take down the Boss_16: 848857203923074891
+      Unlock next map_ Take down the Boss_17: -7602928974852869159
+      Unlock next map_ Take down the Boss_18: -5769966467823975554
+      Unlock next map_ Take down the Boss_19: -8919359362143467616
+      Unlock next map_ Take down the Boss_2: 7608533246344392796
+      Unlock next map_ Take down the Boss_20: 6980992808558297693
+      Unlock next map_ Take down the Boss_21: 7226734335656488085
+      Unlock next map_ Take down the Boss_22: -815233246928855970
+      Unlock next map_ Take down the Boss_23: 4629231253280478409
+      Unlock next map_ Take down the Boss_24: 5600345493021155934
+      Unlock next map_ Take down the Boss_25: 7418836108815978145
+      Unlock next map_ Take down the Boss_26: -8643854244093536950
+      Unlock next map_ Take down the Boss_27: 1181195417550185038
+      Unlock next map_ Take down the Boss_28: 1319971302064817194
+      Unlock next map_ Take down the Boss_29: -2137420454631018782
+      Unlock next map_ Take down the Boss_3: -2376191841667416401
+      Unlock next map_ Take down the Boss_4: 6806727940663575360
+      Unlock next map_ Take down the Boss_5: -6919086210043162190
+      Unlock next map_ Take down the Boss_6: 3428764912614392665
+      Unlock next map_ Take down the Boss_7: 3722030556147877593
+      Unlock next map_ Take down the Boss_8: -5255914058116075427
+      Unlock next map_ Take down the Boss_9: -5476346362320661476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 5213cbf1c6363e147b0332639ada00ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5791216204001821996
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_0
+  - first:
+      213: 7380042008944407033
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_1
+  - first:
+      213: -1626238593004534134
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_2
+  - first:
+      213: -7218891350123098325
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_3
+  - first:
+      213: 2584626642292978666
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_4
+  - first:
+      213: -6081907326491653841
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_5
+  - first:
+      213: 6072251072935408846
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_6
+  - first:
+      213: 1286540434785417095
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_7
+  - first:
+      213: 3043926186587521414
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_8
+  - first:
+      213: 2349871416977057612
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_9
+  - first:
+      213: -3971350651656292519
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_10
+  - first:
+      213: -9085610559258556609
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_11
+  - first:
+      213: -6680446195357915683
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_12
+  - first:
+      213: -5042763043675434358
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_13
+  - first:
+      213: -5730614091727500985
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_14
+  - first:
+      213: -2969072585651686727
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_15
+  - first:
+      213: 314317087531412896
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_16
+  - first:
+      213: -5022005785108943122
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_17
+  - first:
+      213: -8189391517624284408
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_18
+  - first:
+      213: -4188037046734510950
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_19
+  - first:
+      213: -4944188439320419087
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_20
+  - first:
+      213: 5899717731815632848
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_21
+  - first:
+      213: 5867471999737189504
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_22
+  - first:
+      213: 7649236045480919795
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_23
+  - first:
+      213: -1741757882470214631
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_24
+  - first:
+      213: 7128674996073079827
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_25
+  - first:
+      213: 8863072979200691636
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_26
+  - first:
+      213: 1255527137692470714
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_27
+  - first:
+      213: 4467158597266217258
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_28
+  - first:
+      213: 9127431036026916548
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_29
+  - first:
+      213: 5675742306803907191
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_30
+  - first:
+      213: -2263366464722851945
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_31
+  - first:
+      213: 3455927832238337628
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_32
+  - first:
+      213: -191758674231804562
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_33
+  - first:
+      213: 4551089906835297592
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_34
+  - first:
+      213: -7653020681869848978
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_35
+  - first:
+      213: -6647993838337364889
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_36
+  - first:
+      213: 4470202798367414096
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_37
+  - first:
+      213: 5532923449655938158
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_38
+  - first:
+      213: -3588750128798255583
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_39
+  - first:
+      213: -4740257617347613589
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_40
+  - first:
+      213: 319452992094423840
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_41
+  - first:
+      213: 7642535070625303500
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_42
+  - first:
+      213: -5245453590234654544
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_43
+  - first:
+      213: 2094058756728786091
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_44
+  - first:
+      213: -4334853831244934962
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_45
+  - first:
+      213: 2195916572698217194
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_46
+  - first:
+      213: 1276385686951101841
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_47
+  - first:
+      213: -8343131912444772859
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_48
+  - first:
+      213: 8691636993908018987
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_49
+  - first:
+      213: -2888170835943250003
+    second: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c30154788e5050800000000000000
+      internalID: 5791216204001821996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 61
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f177922b1d2b6660800000000000000
+      internalID: 7380042008944407033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 61
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a860fe7ad907e69e0800000000000000
+      internalID: -1626238593004534134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 61
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc5cb709851db90800000000000000
+      internalID: -7218891350123098325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 61
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae332eabc307ed320800000000000000
+      internalID: 2584626642292978666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f298e978289b89ba0800000000000000
+      internalID: -6081907326491653841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4bc4dbd28f44450800000000000000
+      internalID: 6072251072935408846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787bf8485b5bad110800000000000000
+      internalID: 1286540434785417095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 33
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6810f024db23e3a20800000000000000
+      internalID: 3043926186587521414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47e2c48a9b6c9020800000000000000
+      internalID: 2349871416977057612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b2899f9de2e8c0800000000000000
+      internalID: -3971350651656292519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f370bdf755d69e180800000000000000
+      internalID: -9085610559258556609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e49074994a43a0800000000000000
+      internalID: -6680446195357915683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82124fbab1840ab0800000000000000
+      internalID: -5042763043675434358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490cbd78d4c870b0800000000000000
+      internalID: -5730614091727500985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b271e3d63cbbc6d0800000000000000
+      internalID: -2969072585651686727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad252dc9bdac5400800000000000000
+      internalID: 314317087531412896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeef9e98504e4ab0800000000000000
+      internalID: -5022005785108943122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 33
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4861ddcf695e80800000000000000
+      internalID: -8189391517624284408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a633ce7a11e5c0800000000000000
+      internalID: -4188037046734510950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 33
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4a6b35fc6b26bb0800000000000000
+      internalID: -4944188439320419087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 33
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa1ffd40200e150800000000000000
+      internalID: 5899717731815632848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 33
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084d2e152b27d6150800000000000000
+      internalID: 5867471999737189504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2010ee7ab872a60800000000000000
+      internalID: 7649236045480919795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91450a22f6804d7e0800000000000000
+      internalID: -1741757882470214631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314252cb3242ee260800000000000000
+      internalID: 7128674996073079827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdce9f7ae5fffa70800000000000000
+      internalID: 8863072979200691636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdc50897478c6110800000000000000
+      internalID: 1255527137692470714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29926183198efd30800000000000000
+      internalID: 4467158597266217258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 33
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce82460b262bae70800000000000000
+      internalID: 9127431036026916548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77af3b18e8944ce40800000000000000
+      internalID: 5675742306803907191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a9a13138e690e0800000000000000
+      internalID: -2263366464722851945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea3f99d0ce5ff20800000000000000
+      internalID: 3455927832238337628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d30d3708cb65df0800000000000000
+      internalID: -191758674231804562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83598c55828b82f30800000000000000
+      internalID: 4551089906835297592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e0e6ebc320bc590800000000000000
+      internalID: -7653020681869848978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6aec93d49db3a0800000000000000
+      internalID: -6647993838337364889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05795aec2c9590e30800000000000000
+      internalID: 4470202798367414096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ccb221094e8cc40800000000000000
+      internalID: 5532923449655938158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b75995c2323ec0800000000000000
+      internalID: -3588750128798255583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce72edfc8373eb0800000000000000
+      internalID: -4740257617347613589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b4934cdccee6400800000000000000
+      internalID: 319452992094423840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb0614a72dbf0a60800000000000000
+      internalID: 7642535070625303500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8144450c76437b0800000000000000
+      internalID: -5245453590234654544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac8d9d28579f0d10800000000000000
+      internalID: 2094058756728786091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec09763586187d3c0800000000000000
+      internalID: -4334853831244934962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea02180d76797e10800000000000000
+      internalID: 2195916572698217194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_47
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1950d1b0502a6b110800000000000000
+      internalID: 1276385686951101841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef08cbabd373c80800000000000000
+      internalID: -8343131912444772859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0882bbc5ee9870800000000000000
+      internalID: 8691636993908018987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7a5f84de72be7d0800000000000000
+      internalID: -2888170835943250003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_0: 5791216204001821996
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_1: 7380042008944407033
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_10: -3971350651656292519
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_11: -9085610559258556609
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_12: -6680446195357915683
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_13: -5042763043675434358
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_14: -5730614091727500985
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_15: -2969072585651686727
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_16: 314317087531412896
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_17: -5022005785108943122
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_18: -8189391517624284408
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_19: -4188037046734510950
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_2: -1626238593004534134
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_20: -4944188439320419087
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_21: 5899717731815632848
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_22: 5867471999737189504
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_23: 7649236045480919795
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_24: -1741757882470214631
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_25: 7128674996073079827
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_26: 8863072979200691636
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_27: 1255527137692470714
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_28: 4467158597266217258
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_29: 9127431036026916548
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_3: -7218891350123098325
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_30: 5675742306803907191
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_31: -2263366464722851945
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_32: 3455927832238337628
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_33: -191758674231804562
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_34: 4551089906835297592
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_35: -7653020681869848978
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_36: -6647993838337364889
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_37: 4470202798367414096
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_38: 5532923449655938158
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_39: -3588750128798255583
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_4: 2584626642292978666
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_40: -4740257617347613589
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_41: 319452992094423840
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_42: 7642535070625303500
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_43: -5245453590234654544
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_44: 2094058756728786091
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_45: -4334853831244934962
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_46: 2195916572698217194
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_47: 1276385686951101841
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_48: -8343131912444772859
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_49: 8691636993908018987
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_5: -6081907326491653841
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_50: -2888170835943250003
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_6: 6072251072935408846
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_7: 1286540434785417095
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_8: 3043926186587521414
+      STATS_ +1 energy block to the Level bar (1 energy block = 5 points)_9: 2349871416977057612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

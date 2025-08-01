@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e82806c060040be4cb7faca0000e5155
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3670304217583386973
+    second: CROUCH_ Press Down Arrow_0
+  - first:
+      213: 3354343825736886138
+    second: CROUCH_ Press Down Arrow_1
+  - first:
+      213: 620575164437227824
+    second: CROUCH_ Press Down Arrow_2
+  - first:
+      213: -988621758806774156
+    second: CROUCH_ Press Down Arrow_3
+  - first:
+      213: -3008743088240967150
+    second: CROUCH_ Press Down Arrow_4
+  - first:
+      213: 795456424866391650
+    second: CROUCH_ Press Down Arrow_5
+  - first:
+      213: 4491671156258346586
+    second: CROUCH_ Press Down Arrow_6
+  - first:
+      213: 5431246038824581536
+    second: CROUCH_ Press Down Arrow_7
+  - first:
+      213: -402663070522090573
+    second: CROUCH_ Press Down Arrow_8
+  - first:
+      213: -3049158445422355758
+    second: CROUCH_ Press Down Arrow_9
+  - first:
+      213: 5271676463590449996
+    second: CROUCH_ Press Down Arrow_10
+  - first:
+      213: -6654187746699296012
+    second: CROUCH_ Press Down Arrow_11
+  - first:
+      213: -2911686099874920213
+    second: CROUCH_ Press Down Arrow_12
+  - first:
+      213: -7885343520815676593
+    second: CROUCH_ Press Down Arrow_13
+  - first:
+      213: 2931667886970196331
+    second: CROUCH_ Press Down Arrow_14
+  - first:
+      213: 2713188123529208697
+    second: CROUCH_ Press Down Arrow_15
+  - first:
+      213: -3819590737555243857
+    second: CROUCH_ Press Down Arrow_16
+  - first:
+      213: -5329099134970147699
+    second: CROUCH_ Press Down Arrow_17
+  - first:
+      213: 404689686344805122
+    second: CROUCH_ Press Down Arrow_18
+  - first:
+      213: 6472185088307145682
+    second: CROUCH_ Press Down Arrow_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510da26d3a8fe230800000000000000
+      internalID: 3670304217583386973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77629bffe50d8e20800000000000000
+      internalID: 3354343825736886138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e5b8f2d9bc9800800000000000000
+      internalID: 620575164437227824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ea9119fb5b742f0800000000000000
+      internalID: -988621758806774156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2124cfc2a1cce36d0800000000000000
+      internalID: -3008743088240967150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266a67667670a0b00800000000000000
+      internalID: 795456424866391650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5695a46e1f955e30800000000000000
+      internalID: 4491671156258346586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9f2ef0f79af5b40800000000000000
+      internalID: 5431246038824581536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbdc5d1214796af0800000000000000
+      internalID: -402663070522090573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dad7bc8c863fa5d0800000000000000
+      internalID: -3049158445422355758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43a81720d1c82940800000000000000
+      internalID: 5271676463590449996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24b31ff7397a3a0800000000000000
+      internalID: -6654187746699296012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8438f3bec9797d0800000000000000
+      internalID: -2911686099874920213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f438add98d1a19290800000000000000
+      internalID: -7885343520815676593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61574a19606fa820800000000000000
+      internalID: 2931667886970196331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97364c7293e27a520800000000000000
+      internalID: 2713188123529208697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb5a416761efac0800000000000000
+      internalID: -3819590737555243857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c434f429c3b06b0800000000000000
+      internalID: -5329099134970147699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba8d6202fbd9500800000000000000
+      internalID: 404689686344805122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CROUCH_ Press Down Arrow_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dba025fb02d1d950800000000000000
+      internalID: 6472185088307145682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CROUCH_ Press Down Arrow_0: 3670304217583386973
+      CROUCH_ Press Down Arrow_1: 3354343825736886138
+      CROUCH_ Press Down Arrow_10: 5271676463590449996
+      CROUCH_ Press Down Arrow_11: -6654187746699296012
+      CROUCH_ Press Down Arrow_12: -2911686099874920213
+      CROUCH_ Press Down Arrow_13: -7885343520815676593
+      CROUCH_ Press Down Arrow_14: 2931667886970196331
+      CROUCH_ Press Down Arrow_15: 2713188123529208697
+      CROUCH_ Press Down Arrow_16: -3819590737555243857
+      CROUCH_ Press Down Arrow_17: -5329099134970147699
+      CROUCH_ Press Down Arrow_18: 404689686344805122
+      CROUCH_ Press Down Arrow_19: 6472185088307145682
+      CROUCH_ Press Down Arrow_2: 620575164437227824
+      CROUCH_ Press Down Arrow_3: -988621758806774156
+      CROUCH_ Press Down Arrow_4: -3008743088240967150
+      CROUCH_ Press Down Arrow_5: 795456424866391650
+      CROUCH_ Press Down Arrow_6: 4491671156258346586
+      CROUCH_ Press Down Arrow_7: 5431246038824581536
+      CROUCH_ Press Down Arrow_8: -402663070522090573
+      CROUCH_ Press Down Arrow_9: -3049158445422355758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 97c0a6cdae6cc68489c1940af8dcaccb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7478544698929611611
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_0
+  - first:
+      213: 7353627489948834487
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_1
+  - first:
+      213: 567798244244944978
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_2
+  - first:
+      213: 4414844015388112267
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_3
+  - first:
+      213: -6386523061419823611
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_4
+  - first:
+      213: 3130212037191270837
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_5
+  - first:
+      213: 5811693927934461187
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_6
+  - first:
+      213: 3942955201993722761
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_7
+  - first:
+      213: 8878348849499574589
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_8
+  - first:
+      213: 6327718150747993679
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_9
+  - first:
+      213: 7288274648007034171
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_10
+  - first:
+      213: 4274839148524791245
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_11
+  - first:
+      213: 8225539545802885854
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_12
+  - first:
+      213: 6813541604562847913
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_13
+  - first:
+      213: -5191380634041113900
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_14
+  - first:
+      213: -7759971810127103138
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_15
+  - first:
+      213: 4850782294041139597
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_16
+  - first:
+      213: -499982263524921361
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_17
+  - first:
+      213: 1552864028910719176
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_18
+  - first:
+      213: -5755124603566464036
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_19
+  - first:
+      213: -3186708295686314563
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_20
+  - first:
+      213: 3491203468752527617
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_21
+  - first:
+      213: 5432485991995218795
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_22
+  - first:
+      213: -8572246172015375932
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_23
+  - first:
+      213: 7858764327972277517
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_24
+  - first:
+      213: 6860265119885176339
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_25
+  - first:
+      213: 1257746272772026331
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_26
+  - first:
+      213: 882971379484768094
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_27
+  - first:
+      213: 2220292149052142415
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_28
+  - first:
+      213: 3797025522329918824
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_29
+  - first:
+      213: -7905431993006497186
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_30
+  - first:
+      213: -3786089686452798031
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_31
+  - first:
+      213: -289694716360390508
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_32
+  - first:
+      213: 8391526506460948579
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_33
+  - first:
+      213: 3948516324571664063
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_34
+  - first:
+      213: -4660484271624327197
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_35
+  - first:
+      213: 373908673493838094
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_36
+  - first:
+      213: 6467541549462550658
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_37
+  - first:
+      213: 4722755950001096509
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_38
+  - first:
+      213: 2278602390312779543
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_39
+  - first:
+      213: 7974472380508432839
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_40
+  - first:
+      213: 3963728540748008321
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_41
+  - first:
+      213: -1827117306450958501
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_42
+  - first:
+      213: -8615422383797292935
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_43
+  - first:
+      213: 1554762993119517398
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_44
+  - first:
+      213: 5353014062053515775
+    second: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac7b67283fd63890800000000000000
+      internalID: -7478544698929611611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 59
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba92fcad355d0660800000000000000
+      internalID: 7353627489948834487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 59
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587f4cae7931e700800000000000000
+      internalID: 567798244244944978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85b7fbbd3da44d30800000000000000
+      internalID: 4414844015388112267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e2b36ec138e57a0800000000000000
+      internalID: -6386523061419823611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b10074634fb07b20800000000000000
+      internalID: 3130212037191270837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30504d5f5d847a050800000000000000
+      internalID: 5811693927934461187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4d149dd038b630800000000000000
+      internalID: 3942955201993722761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d319b663d3b363b70800000000000000
+      internalID: 8878348849499574589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f463026e12290d750800000000000000
+      internalID: 6327718150747993679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35c1fb6d27252560800000000000000
+      internalID: 7288274648007034171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 27
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5e0c77e87435b30800000000000000
+      internalID: 4274839148524791245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 31
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda4289d2acf62270800000000000000
+      internalID: 8225539545802885854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8405a5dff8e8e50800000000000000
+      internalID: 6813541604562847913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2232681d284f7b0800000000000000
+      internalID: -5191380634041113900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 31
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3456b0ca0f4490800000000000000
+      internalID: -7759971810127103138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89931fbbc0715340800000000000000
+      internalID: 4850782294041139597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe994c7c4bf09f0800000000000000
+      internalID: -499982263524921361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c094bb5b91ec8510800000000000000
+      internalID: 1552864028910719176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd36f4e3aa0b120b0800000000000000
+      internalID: -5755124603566464036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5a3d060b986c3d0800000000000000
+      internalID: -3186708295686314563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012b91ce0f337030800000000000000
+      internalID: 3491203468752527617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 27
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b19282a31146b40800000000000000
+      internalID: 5432485991995218795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 31
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c942d53683490980800000000000000
+      internalID: -8572246172015375932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8c4ec480ff0d60800000000000000
+      internalID: 7858764327972277517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e22cf77ce843f50800000000000000
+      internalID: 6860265119885176339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 31
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe52e3299647110800000000000000
+      internalID: 1257746272772026331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57b60d9ac1f04c00800000000000000
+      internalID: 882971379484768094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4377d922ff00de10800000000000000
+      internalID: 2220292149052142415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 31
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d1195589eb1b430800000000000000
+      internalID: 3797025522329918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 31
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e6d4bc734a4290800000000000000
+      internalID: -7905431993006497186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf53f5d7b157bc0800000000000000
+      internalID: -3786089686452798031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 31
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498080ab03ccafbf0800000000000000
+      internalID: -289694716360390508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36821ecb5e0b47470800000000000000
+      internalID: 8391526506460948579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbecce35da2fbc630800000000000000
+      internalID: 3948516324571664063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef698c4f32a25fb0800000000000000
+      internalID: -4660484271624327197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a90e15f3603500800000000000000
+      internalID: 373908673493838094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2887bc1d5c251c950800000000000000
+      internalID: 6467541549462550658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d378da8a3899a8140800000000000000
+      internalID: 4722755950001096509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff2fa2dc83f9f10800000000000000
+      internalID: 2278602390312779543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c96e5721640bae60800000000000000
+      internalID: 7974472380508432839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bcc596b1ef10730800000000000000
+      internalID: 3963728540748008321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a5028d76c4a6e0800000000000000
+      internalID: -1827117306450958501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97030d70dfedf6880800000000000000
+      internalID: -8615422383797292935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dadfca64b0a39510800000000000000
+      internalID: 1554762993119517398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ee5e8de9b94a40800000000000000
+      internalID: 5353014062053515775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_0: -7478544698929611611
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_1: 7353627489948834487
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_10: 7288274648007034171
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_11: 4274839148524791245
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_12: 8225539545802885854
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_13: 6813541604562847913
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_14: -5191380634041113900
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_15: -7759971810127103138
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_16: 4850782294041139597
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_17: -499982263524921361
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_18: 1552864028910719176
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_19: -5755124603566464036
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_2: 567798244244944978
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_20: -3186708295686314563
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_21: 3491203468752527617
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_22: 5432485991995218795
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_23: -8572246172015375932
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_24: 7858764327972277517
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_25: 6860265119885176339
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_26: 1257746272772026331
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_27: 882971379484768094
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_28: 2220292149052142415
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_29: 3797025522329918824
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_3: 4414844015388112267
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_30: -7905431993006497186
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_31: -3786089686452798031
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_32: -289694716360390508
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_33: 8391526506460948579
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_34: 3948516324571664063
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_35: -4660484271624327197
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_36: 373908673493838094
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_37: 6467541549462550658
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_38: 4722755950001096509
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_39: 2278602390312779543
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_4: -6386523061419823611
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_40: 7974472380508432839
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_41: 3963728540748008321
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_42: -1827117306450958501
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_43: -8615422383797292935
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_44: 1554762993119517398
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_45: 5353014062053515775
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_5: 3130212037191270837
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_6: 5811693927934461187
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_7: 3942955201993722761
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_8: 8878348849499574589
+      STATS_ +5% speed for 10 seconds (maximum 15% for 3 Oil Engines)_9: 6327718150747993679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

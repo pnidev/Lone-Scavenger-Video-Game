@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: de1bf155c8d30f64cbc83c07538f732c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 56484165750528683
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_0"
+  - first:
+      213: -5112616322079890268
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_1"
+  - first:
+      213: -1155361396922371251
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_2"
+  - first:
+      213: -4885388222427536961
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_3"
+  - first:
+      213: 8998654139007227141
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_4"
+  - first:
+      213: -5172041722065579525
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_5"
+  - first:
+      213: 4154559505485851912
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_6"
+  - first:
+      213: -2821550361011359227
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_7"
+  - first:
+      213: -4041710636378894673
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_8"
+  - first:
+      213: 5131890750879806118
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_9"
+  - first:
+      213: 4871477709914673856
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_10"
+  - first:
+      213: 6646283632695366002
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_11"
+  - first:
+      213: -7389552833471326751
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_12"
+  - first:
+      213: -8820832376224028997
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_13"
+  - first:
+      213: 6651463708005585754
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_14"
+  - first:
+      213: 6393926717631173846
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_15"
+  - first:
+      213: 4803785766351276096
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_16"
+  - first:
+      213: 487661562586351152
+    second: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_0"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 45
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa9efaac0ca8c000800000000000000
+      internalID: 56484165750528683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_1"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a46099fa865c09b0800000000000000
+      internalID: -5112616322079890268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_2"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433e3d4ee457ffe0800000000000000
+      internalID: -1155361396922371251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_3"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 45
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1645cab4d933cb0800000000000000
+      internalID: -4885388222427536961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505df143344a1ec70800000000000000
+      internalID: 8998654139007227141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_5"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 22
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf118c8d4773938b0800000000000000
+      internalID: -5172041722065579525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_6"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80de4b2cbd5f7a930800000000000000
+      internalID: 4154559505485851912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_7"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 22
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502fa0855e6d7d8d0800000000000000
+      internalID: -2821550361011359227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_8"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 22
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faec7b11795f8e7c0800000000000000
+      internalID: -4041710636378894673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_9"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 22
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2bd40b273283740800000000000000
+      internalID: 5131890750879806118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_10"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c292beba27fa9340800000000000000
+      internalID: 4871477709914673856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_11"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271dc4b10c75c3c50800000000000000
+      internalID: 6646283632695366002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_12"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d5f779d8037990800000000000000
+      internalID: -7389552833471326751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_13"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e6e740bb169580800000000000000
+      internalID: -8820832376224028997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_14"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a535310600fbe4c50800000000000000
+      internalID: 6651463708005585754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_15"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d41944297acbb850800000000000000
+      internalID: 6393926717631173846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_16"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480274f3b97aa240800000000000000
+      internalID: 4803785766351276096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_17"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03642908b9584c600800000000000000
+      internalID: 487661562586351152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_0": 56484165750528683
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_1": -5112616322079890268
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_10": 4871477709914673856
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_11": 6646283632695366002
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_12": -7389552833471326751
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_13": -8820832376224028997
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_14": 6651463708005585754
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_15": 6393926717631173846
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_16": 4803785766351276096
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_17": 487661562586351152
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_2": -1155361396922371251
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_3": -4885388222427536961
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_4": 8998654139007227141
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_5": -5172041722065579525
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_6": 4154559505485851912
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_7": -2821550361011359227
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_8": -4041710636378894673
+      "Nguy\u1EC5n Ph\xFAc Th\xFAc SE192073_9": 5131890750879806118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

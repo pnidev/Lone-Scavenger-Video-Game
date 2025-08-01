@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0b1db928c9a5d3245bb04fbb2946daa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1276282752641726614
+    second: Watch carefully kid..._0
+  - first:
+      213: 2012046141117267122
+    second: Watch carefully kid..._1
+  - first:
+      213: 2615334551155421912
+    second: Watch carefully kid..._2
+  - first:
+      213: -5663946313017856074
+    second: Watch carefully kid..._3
+  - first:
+      213: 7223666404922179147
+    second: Watch carefully kid..._4
+  - first:
+      213: -3692604114004287154
+    second: Watch carefully kid..._5
+  - first:
+      213: -5312465944855562548
+    second: Watch carefully kid..._6
+  - first:
+      213: -4142775120612667199
+    second: Watch carefully kid..._7
+  - first:
+      213: 2461598964422830978
+    second: Watch carefully kid..._8
+  - first:
+      213: 3528203325498286753
+    second: Watch carefully kid..._9
+  - first:
+      213: 5705750569268062580
+    second: Watch carefully kid..._10
+  - first:
+      213: 7904933345415740251
+    second: Watch carefully kid..._11
+  - first:
+      213: 8059659198897445219
+    second: Watch carefully kid..._12
+  - first:
+      213: -6035036976449907024
+    second: Watch carefully kid..._13
+  - first:
+      213: 4685253663614778645
+    second: Watch carefully kid..._14
+  - first:
+      213: 287315914104231259
+    second: Watch carefully kid..._15
+  - first:
+      213: 5064935621215250760
+    second: Watch carefully kid..._16
+  - first:
+      213: 429598305813188467
+    second: Watch carefully kid..._17
+  - first:
+      213: 1388300369534574489
+    second: Watch carefully kid..._18
+  - first:
+      213: 2110199014078240545
+    second: Watch carefully kid..._19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Watch carefully kid..._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698fa28c66446b110800000000000000
+      internalID: 1276282752641726614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc7df81e493ceb10800000000000000
+      internalID: 2012046141117267122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 7
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2bc6aeae88b4420800000000000000
+      internalID: 2615334551155421912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfefa156de9561b0800000000000000
+      internalID: -5663946313017856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3f49925e9f3460800000000000000
+      internalID: 7223666404922179147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e0a06f1c31ccc0800000000000000
+      internalID: -3692604114004287154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6368bae545646b0800000000000000
+      internalID: -5312465944855562548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c05e872af7e186c0800000000000000
+      internalID: -4142775120612667199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b64ed473b592220800000000000000
+      internalID: 2461598964422830978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a26da73b32b6f030800000000000000
+      internalID: 3528203325498286753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 7
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a43299e5ee2f40800000000000000
+      internalID: 5705750569268062580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 7
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b35aadef6f3bd60800000000000000
+      internalID: 7904933345415740251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369ddf8e659a9df60800000000000000
+      internalID: 8059659198897445219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 7
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b61b5c48dd3f3ca0800000000000000
+      internalID: -6035036976449907024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3b5e226d550140800000000000000
+      internalID: 4685253663614778645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55df763d40ccf300800000000000000
+      internalID: 287315914104231259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 7
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849e1c0cc144a4640800000000000000
+      internalID: 5064935621215250760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fca1e026d36f500800000000000000
+      internalID: 429598305813188467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd6af94db344310800000000000000
+      internalID: 1388300369534574489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch carefully kid..._19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127538fa2dee84d10800000000000000
+      internalID: 2110199014078240545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Watch carefully kid..._0: 1276282752641726614
+      Watch carefully kid..._1: 2012046141117267122
+      Watch carefully kid..._10: 5705750569268062580
+      Watch carefully kid..._11: 7904933345415740251
+      Watch carefully kid..._12: 8059659198897445219
+      Watch carefully kid..._13: -6035036976449907024
+      Watch carefully kid..._14: 4685253663614778645
+      Watch carefully kid..._15: 287315914104231259
+      Watch carefully kid..._16: 5064935621215250760
+      Watch carefully kid..._17: 429598305813188467
+      Watch carefully kid..._18: 1388300369534574489
+      Watch carefully kid..._19: 2110199014078240545
+      Watch carefully kid..._2: 2615334551155421912
+      Watch carefully kid..._3: -5663946313017856074
+      Watch carefully kid..._4: 7223666404922179147
+      Watch carefully kid..._5: -3692604114004287154
+      Watch carefully kid..._6: -5312465944855562548
+      Watch carefully kid..._7: -4142775120612667199
+      Watch carefully kid..._8: 2461598964422830978
+      Watch carefully kid..._9: 3528203325498286753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

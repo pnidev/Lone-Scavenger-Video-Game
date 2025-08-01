@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: f3550e780f21e3f49b1b198ec875053f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4622114673442501846
+    second: LV required_ 01_0
+  - first:
+      213: 6679006247380866077
+    second: LV required_ 01_1
+  - first:
+      213: -4349112417246959109
+    second: LV required_ 01_2
+  - first:
+      213: -5465048008356884750
+    second: LV required_ 01_3
+  - first:
+      213: 7310100279861853212
+    second: LV required_ 01_4
+  - first:
+      213: 4566437039995727735
+    second: LV required_ 01_5
+  - first:
+      213: -9046437144808684134
+    second: LV required_ 01_6
+  - first:
+      213: -1379939963176964931
+    second: LV required_ 01_7
+  - first:
+      213: -2803911828533018852
+    second: LV required_ 01_8
+  - first:
+      213: 5101993474091146481
+    second: LV required_ 01_9
+  - first:
+      213: -7727392687561671060
+    second: LV required_ 01_10
+  - first:
+      213: -2805582135443040119
+    second: LV required_ 01_11
+  - first:
+      213: -1302257937279596514
+    second: LV required_ 01_12
+  - first:
+      213: -7466705009050935275
+    second: LV required_ 01_13
+  - first:
+      213: -7487218191885830979
+    second: LV required_ 01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LV required_ 01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d439a57ecc052040800000000000000
+      internalID: 4622114673442501846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1450cb8bc890bc50800000000000000
+      internalID: 6679006247380866077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf921c19c49d4a3c0800000000000000
+      internalID: -4349112417246959109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe8e6d9acf3824b0800000000000000
+      internalID: -5465048008356884750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c36a55971b27560800000000000000
+      internalID: 7310100279861853212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fa12a3b4e3f5f30800000000000000
+      internalID: 4566437039995727735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 27
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9587ccc859947280800000000000000
+      internalID: -9046437144808684134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbca87b2ae779dce0800000000000000
+      internalID: -1379939963176964931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ff5c63c018619d0800000000000000
+      internalID: -2803911828533018852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc509d780cedc640800000000000000
+      internalID: 5101993474091146481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e7fe9ca49c2c490800000000000000
+      internalID: -7727392687561671060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885cb499e19019d0800000000000000
+      internalID: -2805582135443040119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1844824e437dede0800000000000000
+      internalID: -1302257937279596514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a3e4ca5fe06890800000000000000
+      internalID: -7466705009050935275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LV required_ 01_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47dc439be081890800000000000000
+      internalID: -7487218191885830979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LV required_ 01_0: 4622114673442501846
+      LV required_ 01_1: 6679006247380866077
+      LV required_ 01_10: -7727392687561671060
+      LV required_ 01_11: -2805582135443040119
+      LV required_ 01_12: -1302257937279596514
+      LV required_ 01_13: -7466705009050935275
+      LV required_ 01_14: -7487218191885830979
+      LV required_ 01_2: -4349112417246959109
+      LV required_ 01_3: -5465048008356884750
+      LV required_ 01_4: 7310100279861853212
+      LV required_ 01_5: 4566437039995727735
+      LV required_ 01_6: -9046437144808684134
+      LV required_ 01_7: -1379939963176964931
+      LV required_ 01_8: -2803911828533018852
+      LV required_ 01_9: 5101993474091146481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

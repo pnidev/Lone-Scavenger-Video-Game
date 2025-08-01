@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: ae8a2b8141644f54299fa0a950dc2c94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7848257094060864062
+    second: '! Mission_ Avoid all obstacles_0'
+  - first:
+      213: -7349326146602675852
+    second: '! Mission_ Avoid all obstacles_1'
+  - first:
+      213: 8098699170782598982
+    second: '! Mission_ Avoid all obstacles_2'
+  - first:
+      213: 6647382544230886285
+    second: '! Mission_ Avoid all obstacles_3'
+  - first:
+      213: -849034739207470604
+    second: '! Mission_ Avoid all obstacles_4'
+  - first:
+      213: -6090382795988322217
+    second: '! Mission_ Avoid all obstacles_5'
+  - first:
+      213: 7207000968291371875
+    second: '! Mission_ Avoid all obstacles_6'
+  - first:
+      213: -5407932719124540511
+    second: '! Mission_ Avoid all obstacles_7'
+  - first:
+      213: -5676326893667457821
+    second: '! Mission_ Avoid all obstacles_8'
+  - first:
+      213: -2215608834876198836
+    second: '! Mission_ Avoid all obstacles_9'
+  - first:
+      213: -7079166877313650968
+    second: '! Mission_ Avoid all obstacles_10'
+  - first:
+      213: 5215791922322348072
+    second: '! Mission_ Avoid all obstacles_11'
+  - first:
+      213: 6580001630727852162
+    second: '! Mission_ Avoid all obstacles_12'
+  - first:
+      213: -577567422066194243
+    second: '! Mission_ Avoid all obstacles_13'
+  - first:
+      213: 8633187924484135321
+    second: '! Mission_ Avoid all obstacles_14'
+  - first:
+      213: -7094042900027685994
+    second: '! Mission_ Avoid all obstacles_15'
+  - first:
+      213: 2729117078597941129
+    second: '! Mission_ Avoid all obstacles_16'
+  - first:
+      213: -1490070440400208296
+    second: '! Mission_ Avoid all obstacles_17'
+  - first:
+      213: 8063547488922091470
+    second: '! Mission_ Avoid all obstacles_18'
+  - first:
+      213: 3030228346597130793
+    second: '! Mission_ Avoid all obstacles_19'
+  - first:
+      213: 3317408808013347755
+    second: '! Mission_ Avoid all obstacles_20'
+  - first:
+      213: 8410022610668795295
+    second: '! Mission_ Avoid all obstacles_21'
+  - first:
+      213: 7351495693929633758
+    second: '! Mission_ Avoid all obstacles_22'
+  - first:
+      213: 8767484199694995139
+    second: '! Mission_ Avoid all obstacles_23'
+  - first:
+      213: -2587639802685520861
+    second: '! Mission_ Avoid all obstacles_24'
+  - first:
+      213: 8902409760384715433
+    second: '! Mission_ Avoid all obstacles_25'
+  - first:
+      213: 6224120267080596457
+    second: '! Mission_ Avoid all obstacles_26'
+  - first:
+      213: -7311583368871347538
+    second: '! Mission_ Avoid all obstacles_27'
+  - first:
+      213: -8381915694408747461
+    second: '! Mission_ Avoid all obstacles_28'
+  - first:
+      213: -7613549622115520098
+    second: '! Mission_ Avoid all obstacles_29'
+  - first:
+      213: 8344848288740711352
+    second: '! Mission_ Avoid all obstacles_30'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32ff65ce3c9aec60800000000000000
+      internalID: 7848257094060864062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_1'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471d14ddec2f10a90800000000000000
+      internalID: -7349326146602675852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_2'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6475f31bcfb546070800000000000000
+      internalID: 8098699170782598982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_3'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba303643f304c50800000000000000
+      internalID: 6647382544230886285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_4'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1829f276f9734f0800000000000000
+      internalID: -849034739207470604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_5'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75837f28d1d9a7ba0800000000000000
+      internalID: -6090382795988322217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_6'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b47e24239640460800000000000000
+      internalID: 7207000968291371875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_7'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a39e5b28d923f4b0800000000000000
+      internalID: -5407932719124540511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_8'
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e464f1c3c2a931b0800000000000000
+      internalID: -5676326893667457821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_9'
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40bcf3e0839041e0800000000000000
+      internalID: -2215608834876198836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_10'
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee220c6b3fb1cd90800000000000000
+      internalID: -7079166877313650968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_11'
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82810607e17326840800000000000000
+      internalID: 5215791922322348072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_12'
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280560dee9cd05b50800000000000000
+      internalID: 6580001630727852162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_13'
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db808ed5d711cf7f0800000000000000
+      internalID: -577567422066194243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_14'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999911e3dae3fc770800000000000000
+      internalID: 8633187924484135321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_15'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c77a7195ec8d90800000000000000
+      internalID: -7094042900027685994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_16'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98738440685cfd520800000000000000
+      internalID: 2729117078597941129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_17'
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eb2a544d4325be0800000000000000
+      internalID: -1490070440400208296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_18'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfb1baf7b977ef60800000000000000
+      internalID: 8063547488922091470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_19'
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922cd3b50a88d0a20800000000000000
+      internalID: 3030228346597130793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_20'
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab33680cbdc90e20800000000000000
+      internalID: 3317408808013347755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_21'
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95bae5910766b470800000000000000
+      internalID: 8410022610668795295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_22'
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75d7c3262c50660800000000000000
+      internalID: 7351495693929633758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_23'
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8ba07d6c5ca970800000000000000
+      internalID: 8767484199694995139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_24'
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32484423f4bd61cd0800000000000000
+      internalID: -2587639802685520861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_25'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa83b49286bb8b70800000000000000
+      internalID: 8902409760384715433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_26'
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf5a6f764806650800000000000000
+      internalID: 6224120267080596457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_27'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf4c81aa9088a90800000000000000
+      internalID: -7311583368871347538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_28'
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36be71d5147dab80800000000000000
+      internalID: -8381915694408747461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_29'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91befdf4fc375690800000000000000
+      internalID: -7613549622115520098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '! Mission_ Avoid all obstacles_30'
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9ae24e4bdec370800000000000000
+      internalID: 8344848288740711352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '! Mission_ Avoid all obstacles_0': 7848257094060864062
+      '! Mission_ Avoid all obstacles_1': -7349326146602675852
+      '! Mission_ Avoid all obstacles_10': -7079166877313650968
+      '! Mission_ Avoid all obstacles_11': 5215791922322348072
+      '! Mission_ Avoid all obstacles_12': 6580001630727852162
+      '! Mission_ Avoid all obstacles_13': -577567422066194243
+      '! Mission_ Avoid all obstacles_14': 8633187924484135321
+      '! Mission_ Avoid all obstacles_15': -7094042900027685994
+      '! Mission_ Avoid all obstacles_16': 2729117078597941129
+      '! Mission_ Avoid all obstacles_17': -1490070440400208296
+      '! Mission_ Avoid all obstacles_18': 8063547488922091470
+      '! Mission_ Avoid all obstacles_19': 3030228346597130793
+      '! Mission_ Avoid all obstacles_2': 8098699170782598982
+      '! Mission_ Avoid all obstacles_20': 3317408808013347755
+      '! Mission_ Avoid all obstacles_21': 8410022610668795295
+      '! Mission_ Avoid all obstacles_22': 7351495693929633758
+      '! Mission_ Avoid all obstacles_23': 8767484199694995139
+      '! Mission_ Avoid all obstacles_24': -2587639802685520861
+      '! Mission_ Avoid all obstacles_25': 8902409760384715433
+      '! Mission_ Avoid all obstacles_26': 6224120267080596457
+      '! Mission_ Avoid all obstacles_27': -7311583368871347538
+      '! Mission_ Avoid all obstacles_28': -8381915694408747461
+      '! Mission_ Avoid all obstacles_29': -7613549622115520098
+      '! Mission_ Avoid all obstacles_3': 6647382544230886285
+      '! Mission_ Avoid all obstacles_30': 8344848288740711352
+      '! Mission_ Avoid all obstacles_4': -849034739207470604
+      '! Mission_ Avoid all obstacles_5': -6090382795988322217
+      '! Mission_ Avoid all obstacles_6': 7207000968291371875
+      '! Mission_ Avoid all obstacles_7': -5407932719124540511
+      '! Mission_ Avoid all obstacles_8': -5676326893667457821
+      '! Mission_ Avoid all obstacles_9': -2215608834876198836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
